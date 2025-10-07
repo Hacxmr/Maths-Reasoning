@@ -1,0 +1,38 @@
+{
+    "problem_id": "9877",
+    "initial_string": " fNnQGpx",
+    "transitions": [
+        {
+            "src": "ZfN",
+            "tgt": ""
+        },
+        {
+            "src": "nQ",
+            "tgt": ""
+        },
+        {
+            "src": "Cuw",
+            "tgt": ""
+        },
+        {
+            "src": "x",
+            "tgt": ""
+        },
+        {
+            "src": "V",
+            "tgt": "Cu"
+        },
+        {
+            "src": "K",
+            "tgt": "w"
+        },
+        {
+            "src": " ",
+            "tgt": "ZVK"
+        },
+        {
+            "src": "Gp",
+            "tgt": ""
+        }
+    ]
+}

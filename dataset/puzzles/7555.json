@@ -1,0 +1,38 @@
+{
+    "problem_id": "7555",
+    "initial_string": "VQ7c",
+    "transitions": [
+        {
+            "src": " Q",
+            "tgt": ""
+        },
+        {
+            "src": "Wo",
+            "tgt": " Q"
+        },
+        {
+            "src": "U0Y",
+            "tgt": "Wo"
+        },
+        {
+            "src": "Vcs",
+            "tgt": "U0"
+        },
+        {
+            "src": "7c",
+            "tgt": "sY"
+        },
+        {
+            "src": "kN",
+            "tgt": "c"
+        },
+        {
+            "src": "Ry",
+            "tgt": "N"
+        },
+        {
+            "src": "Q",
+            "tgt": "kRy"
+        }
+    ]
+}

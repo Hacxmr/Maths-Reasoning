@@ -1,0 +1,42 @@
+{
+    "problem_id": "8968",
+    "initial_string": "J 0C",
+    "transitions": [
+        {
+            "src": "7ji",
+            "tgt": ""
+        },
+        {
+            "src": "9GE",
+            "tgt": ""
+        },
+        {
+            "src": "B",
+            "tgt": "9"
+        },
+        {
+            "src": "6",
+            "tgt": "jiB"
+        },
+        {
+            "src": "r",
+            "tgt": ""
+        },
+        {
+            "src": "l",
+            "tgt": "6GE"
+        },
+        {
+            "src": "j",
+            "tgt": "7r"
+        },
+        {
+            "src": "IC",
+            "tgt": "jl"
+        },
+        {
+            "src": "J 0",
+            "tgt": "I"
+        }
+    ]
+}

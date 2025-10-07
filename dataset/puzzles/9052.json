@@ -1,0 +1,26 @@
+{
+    "problem_id": "9052",
+    "initial_string": "N8",
+    "transitions": [
+        {
+            "src": "p2Ld",
+            "tgt": ""
+        },
+        {
+            "src": "j",
+            "tgt": "p2L"
+        },
+        {
+            "src": "s",
+            "tgt": ""
+        },
+        {
+            "src": "T",
+            "tgt": "d"
+        },
+        {
+            "src": "N8",
+            "tgt": "sjT"
+        }
+    ]
+}

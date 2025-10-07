@@ -1,0 +1,18 @@
+{
+    "problem_id": "1791",
+    "initial_string": "f",
+    "transitions": [
+        {
+            "src": "kG",
+            "tgt": ""
+        },
+        {
+            "src": "K",
+            "tgt": "kG"
+        },
+        {
+            "src": "f",
+            "tgt": "K"
+        }
+    ]
+}

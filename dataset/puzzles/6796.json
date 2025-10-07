@@ -1,0 +1,38 @@
+{
+    "problem_id": "6796",
+    "initial_string": "zrutkzVM",
+    "transitions": [
+        {
+            "src": "ut28M",
+            "tgt": ""
+        },
+        {
+            "src": "3V",
+            "tgt": "8"
+        },
+        {
+            "src": "g",
+            "tgt": ""
+        },
+        {
+            "src": "z",
+            "tgt": ""
+        },
+        {
+            "src": "O",
+            "tgt": "g2"
+        },
+        {
+            "src": "6",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": "O36"
+        },
+        {
+            "src": "zr",
+            "tgt": ""
+        }
+    ]
+}

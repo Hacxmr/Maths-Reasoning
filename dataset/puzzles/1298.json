@@ -1,0 +1,22 @@
+{
+    "problem_id": "1298",
+    "initial_string": "ksUf",
+    "transitions": [
+        {
+            "src": "PAO",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": "PA"
+        },
+        {
+            "src": "sU",
+            "tgt": ""
+        },
+        {
+            "src": "f",
+            "tgt": "O"
+        }
+    ]
+}

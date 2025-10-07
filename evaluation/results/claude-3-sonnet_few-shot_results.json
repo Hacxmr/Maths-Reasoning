@@ -1,0 +1,27 @@
+{
+  "1191": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "5196": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "7109": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "5171": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "5035": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  }
+}

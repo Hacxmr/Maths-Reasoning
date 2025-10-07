@@ -1,0 +1,34 @@
+{
+    "problem_id": "4097",
+    "initial_string": "hiK",
+    "transitions": [
+        {
+            "src": "Pzl",
+            "tgt": ""
+        },
+        {
+            "src": "DGb",
+            "tgt": "Pzl"
+        },
+        {
+            "src": "sS",
+            "tgt": "Gb"
+        },
+        {
+            "src": "zpK",
+            "tgt": "S"
+        },
+        {
+            "src": "6",
+            "tgt": "Ds"
+        },
+        {
+            "src": "pF",
+            "tgt": "6zp"
+        },
+        {
+            "src": "hi",
+            "tgt": "pF"
+        }
+    ]
+}

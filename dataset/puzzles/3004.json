@@ -1,0 +1,18 @@
+{
+    "problem_id": "3004",
+    "initial_string": "c4R",
+    "transitions": [
+        {
+            "src": "Fu4",
+            "tgt": ""
+        },
+        {
+            "src": "c",
+            "tgt": "Fu"
+        },
+        {
+            "src": "R",
+            "tgt": ""
+        }
+    ]
+}

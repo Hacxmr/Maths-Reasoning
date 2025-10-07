@@ -1,0 +1,38 @@
+{
+    "problem_id": "2243",
+    "initial_string": "BZNL",
+    "transitions": [
+        {
+            "src": "6zF",
+            "tgt": ""
+        },
+        {
+            "src": "G",
+            "tgt": ""
+        },
+        {
+            "src": "Qjt",
+            "tgt": "zFG"
+        },
+        {
+            "src": "4pt",
+            "tgt": "t"
+        },
+        {
+            "src": "YL",
+            "tgt": ""
+        },
+        {
+            "src": "h",
+            "tgt": "ptY"
+        },
+        {
+            "src": "N",
+            "tgt": "j4h"
+        },
+        {
+            "src": "BZ",
+            "tgt": "6Q"
+        }
+    ]
+}

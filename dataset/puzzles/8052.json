@@ -1,0 +1,26 @@
+{
+    "problem_id": "8052",
+    "initial_string": "v",
+    "transitions": [
+        {
+            "src": "QXx",
+            "tgt": ""
+        },
+        {
+            "src": "4I",
+            "tgt": "Xx"
+        },
+        {
+            "src": "Wh",
+            "tgt": "Q4I"
+        },
+        {
+            "src": "F",
+            "tgt": "Wh"
+        },
+        {
+            "src": "v",
+            "tgt": "F"
+        }
+    ]
+}

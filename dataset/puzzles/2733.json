@@ -1,0 +1,38 @@
+{
+    "problem_id": "2733",
+    "initial_string": "pbWTup",
+    "transitions": [
+        {
+            "src": "aEIlA",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": "E"
+        },
+        {
+            "src": "D",
+            "tgt": "a"
+        },
+        {
+            "src": "b",
+            "tgt": "k"
+        },
+        {
+            "src": "WT",
+            "tgt": "Il"
+        },
+        {
+            "src": "p",
+            "tgt": "D"
+        },
+        {
+            "src": "5p",
+            "tgt": ""
+        },
+        {
+            "src": "u",
+            "tgt": "A5"
+        }
+    ]
+}

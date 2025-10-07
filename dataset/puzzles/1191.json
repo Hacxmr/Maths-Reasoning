@@ -1,0 +1,38 @@
+{
+    "problem_id": "1191",
+    "initial_string": "m7nAn2",
+    "transitions": [
+        {
+            "src": "n0U",
+            "tgt": ""
+        },
+        {
+            "src": "Hdn",
+            "tgt": "n0"
+        },
+        {
+            "src": "m7",
+            "tgt": "Hd"
+        },
+        {
+            "src": "oat",
+            "tgt": "U"
+        },
+        {
+            "src": "Tu",
+            "tgt": "oa"
+        },
+        {
+            "src": "2D",
+            "tgt": ""
+        },
+        {
+            "src": "A",
+            "tgt": "Tu2"
+        },
+        {
+            "src": "n2",
+            "tgt": "Dt"
+        }
+    ]
+}

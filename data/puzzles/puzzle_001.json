@@ -1,0 +1,14 @@
+{
+  "problem_id": "puzzle_001",
+  "initial_string": "HELLOWORLD",
+  "transitions": [
+    {
+      "src": "HELLO",
+      "tgt": ""
+    },
+    {
+      "src": "WORLD",
+      "tgt": ""
+    }
+  ]
+}

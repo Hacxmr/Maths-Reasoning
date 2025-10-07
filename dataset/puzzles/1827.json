@@ -1,0 +1,42 @@
+{
+    "problem_id": "1827",
+    "initial_string": "vowjYT",
+    "transitions": [
+        {
+            "src": "yJWY",
+            "tgt": ""
+        },
+        {
+            "src": "cI",
+            "tgt": ""
+        },
+        {
+            "src": "T",
+            "tgt": ""
+        },
+        {
+            "src": "vc",
+            "tgt": "yJc"
+        },
+        {
+            "src": "W47",
+            "tgt": "cI"
+        },
+        {
+            "src": "5L",
+            "tgt": ""
+        },
+        {
+            "src": "w",
+            "tgt": ""
+        },
+        {
+            "src": "o",
+            "tgt": "W5L"
+        },
+        {
+            "src": "j",
+            "tgt": "47W"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "problem_id": "puzzle_002",
+  "initial_string": "ABCDE",
+  "transitions": [
+    {
+      "src": "ABC",
+      "tgt": "X"
+    },
+    {
+      "src": "XDE",
+      "tgt": ""
+    }
+  ]
+}

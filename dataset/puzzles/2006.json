@@ -1,0 +1,26 @@
+{
+    "problem_id": "2006",
+    "initial_string": "hZkrtuXQ",
+    "transitions": [
+        {
+            "src": "hZkrP",
+            "tgt": ""
+        },
+        {
+            "src": "X",
+            "tgt": ""
+        },
+        {
+            "src": "t",
+            "tgt": ""
+        },
+        {
+            "src": "Q",
+            "tgt": "P"
+        },
+        {
+            "src": "u",
+            "tgt": ""
+        }
+    ]
+}

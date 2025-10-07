@@ -1,0 +1,22 @@
+{
+    "problem_id": "5723",
+    "initial_string": "vRPK",
+    "transitions": [
+        {
+            "src": "lW",
+            "tgt": ""
+        },
+        {
+            "src": "v",
+            "tgt": "lW"
+        },
+        {
+            "src": "RK",
+            "tgt": ""
+        },
+        {
+            "src": "P",
+            "tgt": ""
+        }
+    ]
+}

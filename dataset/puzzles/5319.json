@@ -1,0 +1,38 @@
+{
+    "problem_id": "5319",
+    "initial_string": "LiITbi",
+    "transitions": [
+        {
+            "src": "LG",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": "G"
+        },
+        {
+            "src": " s",
+            "tgt": "L"
+        },
+        {
+            "src": "4",
+            "tgt": " "
+        },
+        {
+            "src": "h",
+            "tgt": "4s"
+        },
+        {
+            "src": "bi",
+            "tgt": "hk"
+        },
+        {
+            "src": "LiI",
+            "tgt": ""
+        },
+        {
+            "src": "T",
+            "tgt": ""
+        }
+    ]
+}

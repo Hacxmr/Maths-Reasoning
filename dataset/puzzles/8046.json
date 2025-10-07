@@ -1,0 +1,30 @@
+{
+    "problem_id": "8046",
+    "initial_string": "45nEizW",
+    "transitions": [
+        {
+            "src": "xiRD",
+            "tgt": ""
+        },
+        {
+            "src": "iz",
+            "tgt": "iRD"
+        },
+        {
+            "src": "InE",
+            "tgt": ""
+        },
+        {
+            "src": "5",
+            "tgt": "I"
+        },
+        {
+            "src": "W",
+            "tgt": ""
+        },
+        {
+            "src": "4",
+            "tgt": "x"
+        }
+    ]
+}

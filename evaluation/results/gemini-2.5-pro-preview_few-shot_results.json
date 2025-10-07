@@ -1,0 +1,52 @@
+{
+  "8154": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "7737": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "8462": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "5350": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "9694": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "2362": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "1231": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "1298": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "7109": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "8235": {
+    "prompt_type": "few-shot",
+    "solution": null,
+    "is_correct": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "problem_id": "2086",
+    "initial_string": "ek",
+    "transitions": [
+        {
+            "src": "R6Rk",
+            "tgt": ""
+        },
+        {
+            "src": "w",
+            "tgt": "R6R"
+        },
+        {
+            "src": "w",
+            "tgt": "w"
+        },
+        {
+            "src": "dk1",
+            "tgt": "wk"
+        },
+        {
+            "src": "ek",
+            "tgt": "dk1"
+        }
+    ]
+}

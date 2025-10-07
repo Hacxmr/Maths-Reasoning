@@ -1,0 +1,38 @@
+{
+    "problem_id": "4913",
+    "initial_string": "RhU27S",
+    "transitions": [
+        {
+            "src": "XaQ",
+            "tgt": ""
+        },
+        {
+            "src": "93",
+            "tgt": "aQ"
+        },
+        {
+            "src": "DRD",
+            "tgt": "X93"
+        },
+        {
+            "src": "bW6",
+            "tgt": "DRD"
+        },
+        {
+            "src": "R",
+            "tgt": ""
+        },
+        {
+            "src": "Y",
+            "tgt": "bW6"
+        },
+        {
+            "src": "hJS",
+            "tgt": "Y"
+        },
+        {
+            "src": "U27",
+            "tgt": "J"
+        }
+    ]
+}

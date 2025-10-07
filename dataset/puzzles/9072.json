@@ -1,0 +1,22 @@
+{
+    "problem_id": "9072",
+    "initial_string": "EEZb",
+    "transitions": [
+        {
+            "src": "EEb",
+            "tgt": ""
+        },
+        {
+            "src": "I",
+            "tgt": ""
+        },
+        {
+            "src": "j",
+            "tgt": "I"
+        },
+        {
+            "src": "Z",
+            "tgt": "j"
+        }
+    ]
+}

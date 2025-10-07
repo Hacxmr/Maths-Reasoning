@@ -1,0 +1,30 @@
+{
+    "problem_id": "3996",
+    "initial_string": "EVHH66",
+    "transitions": [
+        {
+            "src": "gC",
+            "tgt": ""
+        },
+        {
+            "src": "iU6",
+            "tgt": "gC"
+        },
+        {
+            "src": "N6",
+            "tgt": "U"
+        },
+        {
+            "src": "E1",
+            "tgt": "i"
+        },
+        {
+            "src": "H",
+            "tgt": "1N"
+        },
+        {
+            "src": "VH",
+            "tgt": ""
+        }
+    ]
+}

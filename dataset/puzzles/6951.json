@@ -1,0 +1,30 @@
+{
+    "problem_id": "6951",
+    "initial_string": "Zy Arh",
+    "transitions": [
+        {
+            "src": " Arq",
+            "tgt": ""
+        },
+        {
+            "src": "JL",
+            "tgt": ""
+        },
+        {
+            "src": "W",
+            "tgt": "L"
+        },
+        {
+            "src": "Z",
+            "tgt": "JW"
+        },
+        {
+            "src": "h",
+            "tgt": "q"
+        },
+        {
+            "src": "y",
+            "tgt": ""
+        }
+    ]
+}

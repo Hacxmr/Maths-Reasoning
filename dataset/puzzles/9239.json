@@ -1,0 +1,30 @@
+{
+    "problem_id": "9239",
+    "initial_string": "nLQklA",
+    "transitions": [
+        {
+            "src": "kVR5",
+            "tgt": ""
+        },
+        {
+            "src": "nL",
+            "tgt": ""
+        },
+        {
+            "src": "X",
+            "tgt": "R"
+        },
+        {
+            "src": "A",
+            "tgt": ""
+        },
+        {
+            "src": "l",
+            "tgt": "VX5"
+        },
+        {
+            "src": "Q",
+            "tgt": ""
+        }
+    ]
+}

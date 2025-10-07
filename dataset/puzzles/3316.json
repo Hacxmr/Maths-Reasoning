@@ -1,0 +1,30 @@
+{
+    "problem_id": "3316",
+    "initial_string": "99J",
+    "transitions": [
+        {
+            "src": "NB",
+            "tgt": ""
+        },
+        {
+            "src": "dv",
+            "tgt": "N"
+        },
+        {
+            "src": "X",
+            "tgt": "dv"
+        },
+        {
+            "src": "lg",
+            "tgt": "B"
+        },
+        {
+            "src": "n",
+            "tgt": "Xlg"
+        },
+        {
+            "src": "99J",
+            "tgt": "n"
+        }
+    ]
+}

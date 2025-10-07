@@ -1,0 +1,34 @@
+{
+    "problem_id": "1360",
+    "initial_string": "V9jbV",
+    "transitions": [
+        {
+            "src": "WS",
+            "tgt": ""
+        },
+        {
+            "src": "6jb",
+            "tgt": ""
+        },
+        {
+            "src": "X9",
+            "tgt": "6"
+        },
+        {
+            "src": "V",
+            "tgt": "WX"
+        },
+        {
+            "src": "4r",
+            "tgt": ""
+        },
+        {
+            "src": "x",
+            "tgt": "r"
+        },
+        {
+            "src": "V",
+            "tgt": "S4x"
+        }
+    ]
+}

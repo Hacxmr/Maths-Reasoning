@@ -1,0 +1,34 @@
+{
+    "problem_id": "9669",
+    "initial_string": "mLQF",
+    "transitions": [
+        {
+            "src": "mHDv",
+            "tgt": ""
+        },
+        {
+            "src": "dE",
+            "tgt": "D"
+        },
+        {
+            "src": "A",
+            "tgt": ""
+        },
+        {
+            "src": "F",
+            "tgt": ""
+        },
+        {
+            "src": "Q",
+            "tgt": "v"
+        },
+        {
+            "src": "L",
+            "tgt": "Hd"
+        },
+        {
+            "src": "Q",
+            "tgt": "EAQ"
+        }
+    ]
+}

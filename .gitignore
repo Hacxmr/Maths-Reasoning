@@ -1,0 +1,130 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environment
+venv/
+venv_wsl/
+env/
+ENV/
+
+# Local environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project specific - Generated results and evaluation data
+evaluation/results/          # Raw evaluation results
+evaluation/enhanced_results/ # Enhanced evaluation results
+evaluation/comparison/       # Comparison results (can be regenerated)
+evaluation/figures/          # Generated figures
+evaluation/reports/          # Generated reports
+logs/
+temp/
+*.log
+
+# Test and development files
+test_mock_evaluator.py       # Test script with mock data
+test_evaluator.py            # Test evaluator script
+mock_*.json                  # Mock test results
+*_test.py                    # Any test scripts
+*_debug.py                   # Debug scripts
+
+# Redundant or development scripts
+generate_dataset.py          # Redundant with generate_100_puzzles.py
+improved_implementation.py   # Markdown file with code snippets
+run_metrics.py               # Can be combined with other reporting tools
+src/main.py                  # Not part of the main submission
+generate_report.py           # One-off report generator
+
+# Python specific
+src/__pycache__/             # Python cache files
+**/__pycache__/              # All cache directories
+
+# API keys and credentials
+*_key.txt
+*_keys.txt
+credentials.json
+
+# Large files and datasets
+*.csv
+*.zip
+*.tar.gz
+dataset/puzzles/       # Generated puzzles - can be regenerated
+dataset/solutions/     # Generated solutions - can be regenerated
+data/puzzles/          # Alternative puzzle storage
+
+# Backup and temporary files
+*.bak
+*.old
+*.tmp
+*.swp
+*~
+._*
+*.orig
+.#*
+\#*\#
+
+# OS generated files
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

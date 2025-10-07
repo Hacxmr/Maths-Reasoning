@@ -1,0 +1,30 @@
+{
+    "problem_id": "8730",
+    "initial_string": "w2vo32",
+    "transitions": [
+        {
+            "src": "ET7",
+            "tgt": ""
+        },
+        {
+            "src": "7",
+            "tgt": "E"
+        },
+        {
+            "src": "32",
+            "tgt": "7T7"
+        },
+        {
+            "src": "22v",
+            "tgt": ""
+        },
+        {
+            "src": "o",
+            "tgt": ""
+        },
+        {
+            "src": "w",
+            "tgt": "2"
+        }
+    ]
+}

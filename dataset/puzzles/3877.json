@@ -1,0 +1,26 @@
+{
+    "problem_id": "3877",
+    "initial_string": "yGy0JE",
+    "transitions": [
+        {
+            "src": "y2P",
+            "tgt": ""
+        },
+        {
+            "src": "E",
+            "tgt": "2P"
+        },
+        {
+            "src": "0J",
+            "tgt": ""
+        },
+        {
+            "src": "y",
+            "tgt": ""
+        },
+        {
+            "src": "G",
+            "tgt": ""
+        }
+    ]
+}

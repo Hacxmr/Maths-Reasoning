@@ -1,0 +1,18 @@
+{
+    "problem_id": "2056",
+    "initial_string": "mJ",
+    "transitions": [
+        {
+            "src": "eN",
+            "tgt": ""
+        },
+        {
+            "src": "J",
+            "tgt": ""
+        },
+        {
+            "src": "m",
+            "tgt": "eN"
+        }
+    ]
+}

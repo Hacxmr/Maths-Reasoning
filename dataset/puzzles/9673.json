@@ -1,0 +1,26 @@
+{
+    "problem_id": "9673",
+    "initial_string": "glbJS842",
+    "transitions": [
+        {
+            "src": "gbJ4",
+            "tgt": ""
+        },
+        {
+            "src": "S",
+            "tgt": ""
+        },
+        {
+            "src": "l",
+            "tgt": ""
+        },
+        {
+            "src": "8",
+            "tgt": ""
+        },
+        {
+            "src": "2",
+            "tgt": ""
+        }
+    ]
+}

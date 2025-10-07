@@ -1,0 +1,38 @@
+{
+    "problem_id": "8301",
+    "initial_string": "xIwM",
+    "transitions": [
+        {
+            "src": "LDHe1",
+            "tgt": ""
+        },
+        {
+            "src": "9",
+            "tgt": "DHe"
+        },
+        {
+            "src": "T5",
+            "tgt": ""
+        },
+        {
+            "src": "qC",
+            "tgt": "5"
+        },
+        {
+            "src": "rI",
+            "tgt": "1Tq"
+        },
+        {
+            "src": "ESM",
+            "tgt": ""
+        },
+        {
+            "src": "w",
+            "tgt": "CES"
+        },
+        {
+            "src": "x",
+            "tgt": "L9r"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "problem_id": "7596",
+    "initial_string": "vM",
+    "transitions": [
+        {
+            "src": "rZjz",
+            "tgt": ""
+        },
+        {
+            "src": "M",
+            "tgt": ""
+        },
+        {
+            "src": "o",
+            "tgt": "Zj"
+        },
+        {
+            "src": "O",
+            "tgt": "z"
+        },
+        {
+            "src": "v",
+            "tgt": "roO"
+        }
+    ]
+}

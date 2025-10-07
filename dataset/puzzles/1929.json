@@ -1,0 +1,34 @@
+{
+    "problem_id": "1929",
+    "initial_string": "1L",
+    "transitions": [
+        {
+            "src": "Pxo",
+            "tgt": ""
+        },
+        {
+            "src": "oT",
+            "tgt": "Px"
+        },
+        {
+            "src": "H8",
+            "tgt": "oTo"
+        },
+        {
+            "src": "x",
+            "tgt": "8"
+        },
+        {
+            "src": "r0",
+            "tgt": "Hx"
+        },
+        {
+            "src": "1",
+            "tgt": ""
+        },
+        {
+            "src": "1L",
+            "tgt": "1r0"
+        }
+    ]
+}

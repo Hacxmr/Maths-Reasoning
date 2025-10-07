@@ -1,0 +1,30 @@
+{
+    "problem_id": "3112",
+    "initial_string": "M3GTX",
+    "transitions": [
+        {
+            "src": "JCWM",
+            "tgt": ""
+        },
+        {
+            "src": "TX",
+            "tgt": ""
+        },
+        {
+            "src": "G",
+            "tgt": "M"
+        },
+        {
+            "src": "H",
+            "tgt": ""
+        },
+        {
+            "src": "3",
+            "tgt": "JCW"
+        },
+        {
+            "src": "M",
+            "tgt": "H"
+        }
+    ]
+}

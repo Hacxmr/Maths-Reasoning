@@ -1,0 +1,22 @@
+{
+    "problem_id": "5171",
+    "initial_string": "OHCL",
+    "transitions": [
+        {
+            "src": "OC",
+            "tgt": ""
+        },
+        {
+            "src": "tV",
+            "tgt": ""
+        },
+        {
+            "src": "H",
+            "tgt": "tV"
+        },
+        {
+            "src": "L",
+            "tgt": ""
+        }
+    ]
+}

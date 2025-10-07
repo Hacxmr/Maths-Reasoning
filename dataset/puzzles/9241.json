@@ -1,0 +1,34 @@
+{
+    "problem_id": "9241",
+    "initial_string": "ZZAhU",
+    "transitions": [
+        {
+            "src": "W1k2",
+            "tgt": ""
+        },
+        {
+            "src": "IU",
+            "tgt": "k2"
+        },
+        {
+            "src": "Z",
+            "tgt": "W1"
+        },
+        {
+            "src": "PU",
+            "tgt": "I"
+        },
+        {
+            "src": "uA",
+            "tgt": "PU"
+        },
+        {
+            "src": "Z",
+            "tgt": "u"
+        },
+        {
+            "src": "h",
+            "tgt": ""
+        }
+    ]
+}

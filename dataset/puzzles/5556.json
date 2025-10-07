@@ -1,0 +1,30 @@
+{
+    "problem_id": "5556",
+    "initial_string": "m6EDQOO",
+    "transitions": [
+        {
+            "src": "mO",
+            "tgt": ""
+        },
+        {
+            "src": "4",
+            "tgt": ""
+        },
+        {
+            "src": "bDO",
+            "tgt": "4"
+        },
+        {
+            "src": "E",
+            "tgt": "b"
+        },
+        {
+            "src": "6",
+            "tgt": ""
+        },
+        {
+            "src": "Q",
+            "tgt": ""
+        }
+    ]
+}

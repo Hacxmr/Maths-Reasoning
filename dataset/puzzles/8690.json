@@ -1,0 +1,38 @@
+{
+    "problem_id": "8690",
+    "initial_string": "Et6FDCwe",
+    "transitions": [
+        {
+            "src": "x3 p",
+            "tgt": ""
+        },
+        {
+            "src": "2",
+            "tgt": ""
+        },
+        {
+            "src": "E",
+            "tgt": ""
+        },
+        {
+            "src": "FK",
+            "tgt": ""
+        },
+        {
+            "src": "z",
+            "tgt": "K2p"
+        },
+        {
+            "src": "t6",
+            "tgt": "x3 "
+        },
+        {
+            "src": "DCw",
+            "tgt": "z"
+        },
+        {
+            "src": "e",
+            "tgt": ""
+        }
+    ]
+}

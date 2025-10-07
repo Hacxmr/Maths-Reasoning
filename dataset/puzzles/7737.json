@@ -1,0 +1,38 @@
+{
+    "problem_id": "7737",
+    "initial_string": "ioUA2",
+    "transitions": [
+        {
+            "src": "zy",
+            "tgt": ""
+        },
+        {
+            "src": "Ya",
+            "tgt": "y"
+        },
+        {
+            "src": "U2",
+            "tgt": ""
+        },
+        {
+            "src": "iS",
+            "tgt": "zYa"
+        },
+        {
+            "src": "D",
+            "tgt": ""
+        },
+        {
+            "src": "A",
+            "tgt": ""
+        },
+        {
+            "src": "i",
+            "tgt": "i"
+        },
+        {
+            "src": "o",
+            "tgt": "DS"
+        }
+    ]
+}

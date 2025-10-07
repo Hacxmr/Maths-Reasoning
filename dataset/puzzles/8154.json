@@ -1,0 +1,42 @@
+{
+    "problem_id": "8154",
+    "initial_string": "w",
+    "transitions": [
+        {
+            "src": "ZM61",
+            "tgt": ""
+        },
+        {
+            "src": "0",
+            "tgt": ""
+        },
+        {
+            "src": "tV",
+            "tgt": "ZM6"
+        },
+        {
+            "src": "Yb",
+            "tgt": "01"
+        },
+        {
+            "src": "Z",
+            "tgt": "tV"
+        },
+        {
+            "src": "ve",
+            "tgt": "ZYb"
+        },
+        {
+            "src": "E",
+            "tgt": ""
+        },
+        {
+            "src": "sY",
+            "tgt": "veE"
+        },
+        {
+            "src": "w",
+            "tgt": "sY"
+        }
+    ]
+}

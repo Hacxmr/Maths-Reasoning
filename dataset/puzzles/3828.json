@@ -1,0 +1,26 @@
+{
+    "problem_id": "3828",
+    "initial_string": "MB3",
+    "transitions": [
+        {
+            "src": "2Wi",
+            "tgt": ""
+        },
+        {
+            "src": "y",
+            "tgt": "2W"
+        },
+        {
+            "src": "D3",
+            "tgt": ""
+        },
+        {
+            "src": "h",
+            "tgt": "yi"
+        },
+        {
+            "src": "MB",
+            "tgt": "hD"
+        }
+    ]
+}

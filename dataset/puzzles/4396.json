@@ -1,0 +1,18 @@
+{
+    "problem_id": "4396",
+    "initial_string": "Tpp2",
+    "transitions": [
+        {
+            "src": "p2",
+            "tgt": ""
+        },
+        {
+            "src": "p",
+            "tgt": ""
+        },
+        {
+            "src": "T",
+            "tgt": ""
+        }
+    ]
+}

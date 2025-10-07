@@ -1,0 +1,46 @@
+{
+    "problem_id": "7214",
+    "initial_string": "S4FdidFz",
+    "transitions": [
+        {
+            "src": "SzpK",
+            "tgt": ""
+        },
+        {
+            "src": "kAW",
+            "tgt": ""
+        },
+        {
+            "src": "92",
+            "tgt": "kA"
+        },
+        {
+            "src": "Md",
+            "tgt": "z92"
+        },
+        {
+            "src": "du",
+            "tgt": ""
+        },
+        {
+            "src": "4F",
+            "tgt": "M"
+        },
+        {
+            "src": "C",
+            "tgt": ""
+        },
+        {
+            "src": "z",
+            "tgt": "uK"
+        },
+        {
+            "src": "F",
+            "tgt": ""
+        },
+        {
+            "src": "i",
+            "tgt": "WCp"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "problem_id": "7682",
+    "initial_string": "5rnCl2TceV",
+    "transitions": [
+        {
+            "src": "dh",
+            "tgt": ""
+        },
+        {
+            "src": "Ku",
+            "tgt": "dh"
+        },
+        {
+            "src": "2f",
+            "tgt": "u"
+        },
+        {
+            "src": "c7g",
+            "tgt": ""
+        },
+        {
+            "src": "9",
+            "tgt": "c7g"
+        },
+        {
+            "src": "e",
+            "tgt": "f"
+        },
+        {
+            "src": "5Cl",
+            "tgt": "K"
+        },
+        {
+            "src": "Tc",
+            "tgt": ""
+        },
+        {
+            "src": "rn",
+            "tgt": ""
+        },
+        {
+            "src": "V",
+            "tgt": "9"
+        }
+    ]
+}

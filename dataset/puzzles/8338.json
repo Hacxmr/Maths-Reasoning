@@ -1,0 +1,38 @@
+{
+    "problem_id": "8338",
+    "initial_string": "4cguP95",
+    "transitions": [
+        {
+            "src": "urxL",
+            "tgt": ""
+        },
+        {
+            "src": "Ng",
+            "tgt": "rxL"
+        },
+        {
+            "src": "wv9",
+            "tgt": "Ng"
+        },
+        {
+            "src": "cg",
+            "tgt": ""
+        },
+        {
+            "src": "4",
+            "tgt": ""
+        },
+        {
+            "src": "5",
+            "tgt": ""
+        },
+        {
+            "src": "N",
+            "tgt": ""
+        },
+        {
+            "src": "P",
+            "tgt": "wvN"
+        }
+    ]
+}

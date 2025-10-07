@@ -1,0 +1,30 @@
+{
+    "problem_id": "2628",
+    "initial_string": "24ZZs",
+    "transitions": [
+        {
+            "src": "QjZs",
+            "tgt": ""
+        },
+        {
+            "src": "Z",
+            "tgt": ""
+        },
+        {
+            "src": "K",
+            "tgt": "j"
+        },
+        {
+            "src": "I",
+            "tgt": "QK"
+        },
+        {
+            "src": "y4",
+            "tgt": ""
+        },
+        {
+            "src": "2",
+            "tgt": "Iy"
+        }
+    ]
+}

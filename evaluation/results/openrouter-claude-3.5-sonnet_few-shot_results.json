@@ -1,0 +1,23 @@
+{
+  "5024": {
+    "prompt_type": "few-shot",
+    "solution": [
+      3,
+      6,
+      6,
+      5
+    ],
+    "is_correct": false
+  },
+  "6610": {
+    "prompt_type": "few-shot",
+    "solution": [
+      2,
+      3,
+      1,
+      1,
+      4
+    ],
+    "is_correct": false
+  }
+}

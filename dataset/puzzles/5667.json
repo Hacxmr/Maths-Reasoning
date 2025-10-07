@@ -1,0 +1,30 @@
+{
+    "problem_id": "5667",
+    "initial_string": "X86R6",
+    "transitions": [
+        {
+            "src": "r9U",
+            "tgt": ""
+        },
+        {
+            "src": "uDW",
+            "tgt": "r9U"
+        },
+        {
+            "src": "BcL",
+            "tgt": "uDW"
+        },
+        {
+            "src": "b",
+            "tgt": "BcL"
+        },
+        {
+            "src": "X6",
+            "tgt": "b"
+        },
+        {
+            "src": "86R",
+            "tgt": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "problem_id": "9721",
+    "initial_string": "CrPUU4",
+    "transitions": [
+        {
+            "src": "E8g3C",
+            "tgt": ""
+        },
+        {
+            "src": "T",
+            "tgt": "E8g"
+        },
+        {
+            "src": "rR1",
+            "tgt": "T3C"
+        },
+        {
+            "src": "s",
+            "tgt": "R1"
+        },
+        {
+            "src": "H",
+            "tgt": ""
+        },
+        {
+            "src": "b4",
+            "tgt": "sH"
+        },
+        {
+            "src": "C",
+            "tgt": ""
+        },
+        {
+            "src": "PUU",
+            "tgt": "b"
+        }
+    ]
+}

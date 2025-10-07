@@ -1,0 +1,34 @@
+{
+    "problem_id": "6065",
+    "initial_string": " u0gvQG",
+    "transitions": [
+        {
+            "src": "8g8gQ",
+            "tgt": ""
+        },
+        {
+            "src": "00",
+            "tgt": "g8"
+        },
+        {
+            "src": "Zu",
+            "tgt": "0"
+        },
+        {
+            "src": "v",
+            "tgt": ""
+        },
+        {
+            "src": "S",
+            "tgt": ""
+        },
+        {
+            "src": " ",
+            "tgt": "S8Z"
+        },
+        {
+            "src": "G",
+            "tgt": ""
+        }
+    ]
+}

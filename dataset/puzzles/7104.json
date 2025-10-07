@@ -1,0 +1,18 @@
+{
+    "problem_id": "7104",
+    "initial_string": "7y4",
+    "transitions": [
+        {
+            "src": "G5yo",
+            "tgt": ""
+        },
+        {
+            "src": "7",
+            "tgt": "G5"
+        },
+        {
+            "src": "4",
+            "tgt": "o"
+        }
+    ]
+}

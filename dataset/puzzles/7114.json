@@ -1,0 +1,22 @@
+{
+    "problem_id": "7114",
+    "initial_string": "idnBm",
+    "transitions": [
+        {
+            "src": "Mpnm",
+            "tgt": ""
+        },
+        {
+            "src": "B",
+            "tgt": ""
+        },
+        {
+            "src": "d",
+            "tgt": "Mp"
+        },
+        {
+            "src": "i",
+            "tgt": ""
+        }
+    ]
+}

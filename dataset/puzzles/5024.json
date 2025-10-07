@@ -1,0 +1,42 @@
+{
+    "problem_id": "5024",
+    "initial_string": "GqLxlTxW",
+    "transitions": [
+        {
+            "src": "QT",
+            "tgt": ""
+        },
+        {
+            "src": "opl",
+            "tgt": "Q"
+        },
+        {
+            "src": "GLa",
+            "tgt": "op"
+        },
+        {
+            "src": "q",
+            "tgt": ""
+        },
+        {
+            "src": " G",
+            "tgt": ""
+        },
+        {
+            "src": "W",
+            "tgt": ""
+        },
+        {
+            "src": "x",
+            "tgt": ""
+        },
+        {
+            "src": "u",
+            "tgt": "a"
+        },
+        {
+            "src": "x",
+            "tgt": " Gu"
+        }
+    ]
+}

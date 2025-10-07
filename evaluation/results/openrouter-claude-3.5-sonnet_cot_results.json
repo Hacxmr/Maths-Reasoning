@@ -1,0 +1,22 @@
+{
+  "7031": {
+    "prompt_type": "cot",
+    "solution": [
+      5
+    ],
+    "is_correct": false
+  },
+  "9241": {
+    "prompt_type": "cot",
+    "solution": [
+      5,
+      2,
+      4,
+      3,
+      6,
+      1,
+      0
+    ],
+    "is_correct": false
+  }
+}

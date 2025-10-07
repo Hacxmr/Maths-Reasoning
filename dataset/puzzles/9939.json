@@ -1,0 +1,38 @@
+{
+    "problem_id": "9939",
+    "initial_string": "582NBzI",
+    "transitions": [
+        {
+            "src": "5HriI",
+            "tgt": ""
+        },
+        {
+            "src": "uy",
+            "tgt": "H"
+        },
+        {
+            "src": "q",
+            "tgt": "yri"
+        },
+        {
+            "src": "Bz",
+            "tgt": ""
+        },
+        {
+            "src": "I",
+            "tgt": ""
+        },
+        {
+            "src": "8",
+            "tgt": "uq"
+        },
+        {
+            "src": "NB",
+            "tgt": "B"
+        },
+        {
+            "src": "2",
+            "tgt": "I"
+        }
+    ]
+}

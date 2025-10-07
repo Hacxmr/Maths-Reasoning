@@ -1,0 +1,38 @@
+{
+    "problem_id": "1422",
+    "initial_string": "E0zEVzql",
+    "transitions": [
+        {
+            "src": "3rVuD",
+            "tgt": ""
+        },
+        {
+            "src": "E",
+            "tgt": ""
+        },
+        {
+            "src": "z2",
+            "tgt": ""
+        },
+        {
+            "src": "0",
+            "tgt": "3r"
+        },
+        {
+            "src": "m",
+            "tgt": "D"
+        },
+        {
+            "src": "l",
+            "tgt": "um"
+        },
+        {
+            "src": "zq",
+            "tgt": ""
+        },
+        {
+            "src": "E",
+            "tgt": "2"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "problem_id": "7305",
+    "initial_string": "lb",
+    "transitions": [
+        {
+            "src": "Er",
+            "tgt": ""
+        },
+        {
+            "src": "E",
+            "tgt": "E"
+        },
+        {
+            "src": "li",
+            "tgt": "Er"
+        },
+        {
+            "src": "b",
+            "tgt": "i"
+        }
+    ]
+}

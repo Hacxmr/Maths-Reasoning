@@ -1,0 +1,42 @@
+{
+    "problem_id": "2302",
+    "initial_string": "HIQFC8F1",
+    "transitions": [
+        {
+            "src": "kIiJl",
+            "tgt": ""
+        },
+        {
+            "src": "QF",
+            "tgt": ""
+        },
+        {
+            "src": "Fk",
+            "tgt": "J"
+        },
+        {
+            "src": "n",
+            "tgt": "l"
+        },
+        {
+            "src": "W",
+            "tgt": "k"
+        },
+        {
+            "src": "1",
+            "tgt": "kn"
+        },
+        {
+            "src": "1I",
+            "tgt": "WI"
+        },
+        {
+            "src": "H",
+            "tgt": "1"
+        },
+        {
+            "src": "C8",
+            "tgt": "i"
+        }
+    ]
+}

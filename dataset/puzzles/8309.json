@@ -1,0 +1,22 @@
+{
+    "problem_id": "8309",
+    "initial_string": "HHGQc",
+    "transitions": [
+        {
+            "src": "z U",
+            "tgt": ""
+        },
+        {
+            "src": "Q",
+            "tgt": "z U"
+        },
+        {
+            "src": "HHG",
+            "tgt": ""
+        },
+        {
+            "src": "c",
+            "tgt": ""
+        }
+    ]
+}

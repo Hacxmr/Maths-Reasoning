@@ -1,0 +1,30 @@
+{
+    "problem_id": "9811",
+    "initial_string": "Pllc",
+    "transitions": [
+        {
+            "src": "QC u",
+            "tgt": ""
+        },
+        {
+            "src": "S",
+            "tgt": ""
+        },
+        {
+            "src": "b",
+            "tgt": " Su"
+        },
+        {
+            "src": "X",
+            "tgt": "Cb"
+        },
+        {
+            "src": "P",
+            "tgt": "Q"
+        },
+        {
+            "src": "llc",
+            "tgt": "X"
+        }
+    ]
+}

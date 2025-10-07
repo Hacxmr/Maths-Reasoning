@@ -1,0 +1,38 @@
+{
+    "problem_id": "7569",
+    "initial_string": " a",
+    "transitions": [
+        {
+            "src": "G2",
+            "tgt": ""
+        },
+        {
+            "src": "R0",
+            "tgt": ""
+        },
+        {
+            "src": "u",
+            "tgt": "GR0"
+        },
+        {
+            "src": "rA",
+            "tgt": "2"
+        },
+        {
+            "src": "wk",
+            "tgt": ""
+        },
+        {
+            "src": "B",
+            "tgt": "wku"
+        },
+        {
+            "src": "E",
+            "tgt": "BrA"
+        },
+        {
+            "src": " a",
+            "tgt": "E"
+        }
+    ]
+}

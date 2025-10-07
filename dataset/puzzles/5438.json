@@ -1,0 +1,26 @@
+{
+    "problem_id": "5438",
+    "initial_string": "NGX3mg",
+    "transitions": [
+        {
+            "src": "NW",
+            "tgt": ""
+        },
+        {
+            "src": "Gg",
+            "tgt": "W"
+        },
+        {
+            "src": "O",
+            "tgt": ""
+        },
+        {
+            "src": "3m",
+            "tgt": "O"
+        },
+        {
+            "src": "X",
+            "tgt": ""
+        }
+    ]
+}

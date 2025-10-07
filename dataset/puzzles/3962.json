@@ -1,0 +1,30 @@
+{
+    "problem_id": "3962",
+    "initial_string": "P",
+    "transitions": [
+        {
+            "src": "uR1",
+            "tgt": ""
+        },
+        {
+            "src": "f",
+            "tgt": "R1"
+        },
+        {
+            "src": "7",
+            "tgt": "uf"
+        },
+        {
+            "src": "p",
+            "tgt": "7"
+        },
+        {
+            "src": "Q",
+            "tgt": "p"
+        },
+        {
+            "src": "P",
+            "tgt": "Q"
+        }
+    ]
+}

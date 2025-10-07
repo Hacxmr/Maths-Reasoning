@@ -1,0 +1,34 @@
+{
+    "problem_id": "6459",
+    "initial_string": "il3a",
+    "transitions": [
+        {
+            "src": "dQb",
+            "tgt": ""
+        },
+        {
+            "src": "wuI",
+            "tgt": "b"
+        },
+        {
+            "src": "I",
+            "tgt": "wuI"
+        },
+        {
+            "src": "BP",
+            "tgt": "dQI"
+        },
+        {
+            "src": "i7",
+            "tgt": "BP"
+        },
+        {
+            "src": "z0",
+            "tgt": "7"
+        },
+        {
+            "src": "l3a",
+            "tgt": "z0"
+        }
+    ]
+}

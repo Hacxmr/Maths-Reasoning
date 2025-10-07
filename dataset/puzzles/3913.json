@@ -1,0 +1,34 @@
+{
+    "problem_id": "3913",
+    "initial_string": "fDCcT",
+    "transitions": [
+        {
+            "src": "yJSer",
+            "tgt": ""
+        },
+        {
+            "src": "z",
+            "tgt": "JSe"
+        },
+        {
+            "src": "l",
+            "tgt": "yz"
+        },
+        {
+            "src": "GT",
+            "tgt": "lr"
+        },
+        {
+            "src": "Cc5",
+            "tgt": ""
+        },
+        {
+            "src": "fD",
+            "tgt": "GT"
+        },
+        {
+            "src": "T",
+            "tgt": "5"
+        }
+    ]
+}

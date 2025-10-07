@@ -1,0 +1,26 @@
+{
+    "problem_id": "4298",
+    "initial_string": "RP",
+    "transitions": [
+        {
+            "src": "S7qi",
+            "tgt": ""
+        },
+        {
+            "src": "E",
+            "tgt": ""
+        },
+        {
+            "src": "9",
+            "tgt": "S7q"
+        },
+        {
+            "src": "R1",
+            "tgt": "E9i"
+        },
+        {
+            "src": "P",
+            "tgt": "1"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "problem_id": "7720",
+    "initial_string": "anJtmYw",
+    "transitions": [
+        {
+            "src": "ezw",
+            "tgt": ""
+        },
+        {
+            "src": "tlY",
+            "tgt": "ez"
+        },
+        {
+            "src": "axJ",
+            "tgt": ""
+        },
+        {
+            "src": "n",
+            "tgt": "x"
+        },
+        {
+            "src": "I",
+            "tgt": ""
+        },
+        {
+            "src": "w",
+            "tgt": "Iw"
+        },
+        {
+            "src": "W",
+            "tgt": ""
+        },
+        {
+            "src": "m",
+            "tgt": "lW"
+        }
+    ]
+}

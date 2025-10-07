@@ -1,0 +1,30 @@
+{
+    "problem_id": "8522",
+    "initial_string": "F0ZLR",
+    "transitions": [
+        {
+            "src": "9aLER",
+            "tgt": ""
+        },
+        {
+            "src": "Z",
+            "tgt": "LE"
+        },
+        {
+            "src": "Fj",
+            "tgt": "9a"
+        },
+        {
+            "src": "b",
+            "tgt": ""
+        },
+        {
+            "src": "0",
+            "tgt": "jb"
+        },
+        {
+            "src": "L",
+            "tgt": ""
+        }
+    ]
+}

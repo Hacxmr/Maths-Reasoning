@@ -1,0 +1,34 @@
+{
+    "problem_id": "2041",
+    "initial_string": "MajuNG",
+    "transitions": [
+        {
+            "src": "8k",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": "k"
+        },
+        {
+            "src": "V",
+            "tgt": ""
+        },
+        {
+            "src": "M9H",
+            "tgt": "8V"
+        },
+        {
+            "src": "0j",
+            "tgt": "9Hk"
+        },
+        {
+            "src": "a",
+            "tgt": "0"
+        },
+        {
+            "src": "uNG",
+            "tgt": ""
+        }
+    ]
+}

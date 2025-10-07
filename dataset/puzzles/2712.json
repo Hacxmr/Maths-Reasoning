@@ -1,0 +1,46 @@
+{
+    "problem_id": "2712",
+    "initial_string": "gdwCeM",
+    "transitions": [
+        {
+            "src": "Xc",
+            "tgt": ""
+        },
+        {
+            "src": "R",
+            "tgt": ""
+        },
+        {
+            "src": "i",
+            "tgt": "cR"
+        },
+        {
+            "src": "f",
+            "tgt": "Xi"
+        },
+        {
+            "src": "8x",
+            "tgt": "f"
+        },
+        {
+            "src": "o",
+            "tgt": "8x"
+        },
+        {
+            "src": "5qz",
+            "tgt": "o"
+        },
+        {
+            "src": "R",
+            "tgt": "5q"
+        },
+        {
+            "src": "geM",
+            "tgt": "Rz"
+        },
+        {
+            "src": "dwC",
+            "tgt": ""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "problem_id": "5523",
+    "initial_string": "8nCt ",
+    "transitions": [
+        {
+            "src": "850O ",
+            "tgt": ""
+        },
+        {
+            "src": "a",
+            "tgt": "O"
+        },
+        {
+            "src": "S",
+            "tgt": ""
+        },
+        {
+            "src": "t",
+            "tgt": "S"
+        },
+        {
+            "src": "n",
+            "tgt": "50a"
+        },
+        {
+            "src": "C",
+            "tgt": ""
+        }
+    ]
+}

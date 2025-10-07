@@ -1,0 +1,30 @@
+{
+    "problem_id": "4343",
+    "initial_string": "v4buin",
+    "transitions": [
+        {
+            "src": "4Li",
+            "tgt": ""
+        },
+        {
+            "src": "lu",
+            "tgt": ""
+        },
+        {
+            "src": "t",
+            "tgt": ""
+        },
+        {
+            "src": "n",
+            "tgt": "t"
+        },
+        {
+            "src": "v",
+            "tgt": ""
+        },
+        {
+            "src": "b",
+            "tgt": "Ll"
+        }
+    ]
+}

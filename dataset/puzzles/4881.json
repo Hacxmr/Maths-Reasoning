@@ -1,0 +1,22 @@
+{
+    "problem_id": "4881",
+    "initial_string": "asg",
+    "transitions": [
+        {
+            "src": "Csa",
+            "tgt": ""
+        },
+        {
+            "src": "6",
+            "tgt": "Cs"
+        },
+        {
+            "src": "H",
+            "tgt": "6a"
+        },
+        {
+            "src": "asg",
+            "tgt": "H"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "problem_id": "3460",
+    "initial_string": " H",
+    "transitions": [
+        {
+            "src": "Q1a",
+            "tgt": ""
+        },
+        {
+            "src": " K",
+            "tgt": "Q1"
+        },
+        {
+            "src": "URd",
+            "tgt": "Ka"
+        },
+        {
+            "src": "b",
+            "tgt": "UR"
+        },
+        {
+            "src": "Qb",
+            "tgt": "bd"
+        },
+        {
+            "src": "H",
+            "tgt": "Qb"
+        }
+    ]
+}

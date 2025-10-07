@@ -1,0 +1,26 @@
+{
+    "problem_id": "7067",
+    "initial_string": "GoOS",
+    "transitions": [
+        {
+            "src": "yS",
+            "tgt": ""
+        },
+        {
+            "src": "okK",
+            "tgt": "y"
+        },
+        {
+            "src": "G",
+            "tgt": ""
+        },
+        {
+            "src": "B",
+            "tgt": ""
+        },
+        {
+            "src": "O",
+            "tgt": "kKB"
+        }
+    ]
+}

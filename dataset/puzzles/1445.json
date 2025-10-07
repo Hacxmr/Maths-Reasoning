@@ -1,0 +1,38 @@
+{
+    "problem_id": "1445",
+    "initial_string": "Cqhja",
+    "transitions": [
+        {
+            "src": "oC",
+            "tgt": ""
+        },
+        {
+            "src": "b",
+            "tgt": ""
+        },
+        {
+            "src": "Tq",
+            "tgt": "b"
+        },
+        {
+            "src": "a",
+            "tgt": ""
+        },
+        {
+            "src": "z8",
+            "tgt": ""
+        },
+        {
+            "src": "Y",
+            "tgt": "8Tq"
+        },
+        {
+            "src": "kHj",
+            "tgt": "CzY"
+        },
+        {
+            "src": "Cqh",
+            "tgt": "okH"
+        }
+    ]
+}

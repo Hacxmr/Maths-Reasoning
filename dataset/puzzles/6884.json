@@ -1,0 +1,38 @@
+{
+    "problem_id": "6884",
+    "initial_string": "EGFs85npL",
+    "transitions": [
+        {
+            "src": "GXY",
+            "tgt": ""
+        },
+        {
+            "src": "r8",
+            "tgt": "G"
+        },
+        {
+            "src": "E5p",
+            "tgt": "r8"
+        },
+        {
+            "src": "nL",
+            "tgt": "pXY"
+        },
+        {
+            "src": "GF",
+            "tgt": ""
+        },
+        {
+            "src": "s",
+            "tgt": ""
+        },
+        {
+            "src": "8",
+            "tgt": ""
+        },
+        {
+            "src": "p",
+            "tgt": ""
+        }
+    ]
+}

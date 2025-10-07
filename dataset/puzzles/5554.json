@@ -1,0 +1,34 @@
+{
+    "problem_id": "5554",
+    "initial_string": "YOlYm",
+    "transitions": [
+        {
+            "src": "3Rg",
+            "tgt": ""
+        },
+        {
+            "src": "U",
+            "tgt": "Rg"
+        },
+        {
+            "src": "H",
+            "tgt": "3U"
+        },
+        {
+            "src": "V",
+            "tgt": "H"
+        },
+        {
+            "src": "Yn0",
+            "tgt": ""
+        },
+        {
+            "src": "YOl",
+            "tgt": ""
+        },
+        {
+            "src": "m",
+            "tgt": "n0V"
+        }
+    ]
+}

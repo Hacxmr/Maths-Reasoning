@@ -1,0 +1,42 @@
+{
+  "8235": {
+    "prompt_type": "cot",
+    "solution": [
+      0,
+      3
+    ],
+    "is_correct": true
+  },
+  "5581": {
+    "prompt_type": "cot",
+    "solution": [
+      2,
+      2
+    ],
+    "is_correct": false
+  },
+  "3112": {
+    "prompt_type": "cot",
+    "solution": [
+      3,
+      0
+    ],
+    "is_correct": false
+  },
+  "7031": {
+    "prompt_type": "cot",
+    "solution": [
+      4,
+      4
+    ],
+    "is_correct": false
+  },
+  "5795": {
+    "prompt_type": "cot",
+    "solution": [
+      0,
+      1
+    ],
+    "is_correct": true
+  }
+}

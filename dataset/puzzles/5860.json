@@ -1,0 +1,30 @@
+{
+    "problem_id": "5860",
+    "initial_string": "IgF5Xs",
+    "transitions": [
+        {
+            "src": "Ilq",
+            "tgt": ""
+        },
+        {
+            "src": "Ai9",
+            "tgt": "lq"
+        },
+        {
+            "src": "Wnh",
+            "tgt": "9"
+        },
+        {
+            "src": "X",
+            "tgt": "Wnh"
+        },
+        {
+            "src": "5Xs",
+            "tgt": "AiX"
+        },
+        {
+            "src": "gF",
+            "tgt": ""
+        }
+    ]
+}

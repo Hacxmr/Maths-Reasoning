@@ -1,0 +1,30 @@
+{
+    "problem_id": "9420",
+    "initial_string": "d0Dn",
+    "transitions": [
+        {
+            "src": "ld",
+            "tgt": ""
+        },
+        {
+            "src": "DfX",
+            "tgt": "ld"
+        },
+        {
+            "src": "s",
+            "tgt": "fX"
+        },
+        {
+            "src": "B",
+            "tgt": "Ds"
+        },
+        {
+            "src": "dE",
+            "tgt": "B"
+        },
+        {
+            "src": "0Dn",
+            "tgt": "E"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "problem_id": "2166",
+    "initial_string": "ox",
+    "transitions": [
+        {
+            "src": "4WE3u",
+            "tgt": ""
+        },
+        {
+            "src": "7",
+            "tgt": "u"
+        },
+        {
+            "src": "B",
+            "tgt": "37"
+        },
+        {
+            "src": "im",
+            "tgt": "B"
+        },
+        {
+            "src": "o",
+            "tgt": "4WE"
+        },
+        {
+            "src": "x",
+            "tgt": "im"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "problem_id": "9509",
+    "initial_string": "bLD3pdmEK",
+    "transitions": [
+        {
+            "src": "Qav",
+            "tgt": ""
+        },
+        {
+            "src": "WAC",
+            "tgt": "v"
+        },
+        {
+            "src": "3HM",
+            "tgt": "aW"
+        },
+        {
+            "src": "Vm",
+            "tgt": "AC"
+        },
+        {
+            "src": "pd",
+            "tgt": "HMV"
+        },
+        {
+            "src": "boE",
+            "tgt": "Q"
+        },
+        {
+            "src": "LK",
+            "tgt": "oE"
+        },
+        {
+            "src": "D",
+            "tgt": "K"
+        },
+        {
+            "src": "EK",
+            "tgt": ""
+        }
+    ]
+}

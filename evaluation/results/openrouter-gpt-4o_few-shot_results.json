@@ -1,0 +1,25 @@
+{
+  "3288": {
+    "prompt_type": "few-shot",
+    "solution": [
+      3,
+      2,
+      1,
+      6
+    ],
+    "is_correct": false
+  },
+  "5660": {
+    "prompt_type": "few-shot",
+    "solution": [
+      5,
+      4,
+      3,
+      2,
+      1,
+      0,
+      6
+    ],
+    "is_correct": true
+  }
+}

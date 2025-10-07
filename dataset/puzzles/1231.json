@@ -1,0 +1,26 @@
+{
+    "problem_id": "1231",
+    "initial_string": "VblMA",
+    "transitions": [
+        {
+            "src": "U2e",
+            "tgt": ""
+        },
+        {
+            "src": "T",
+            "tgt": "U2e"
+        },
+        {
+            "src": "V4",
+            "tgt": "T"
+        },
+        {
+            "src": "blM",
+            "tgt": "4"
+        },
+        {
+            "src": "A",
+            "tgt": ""
+        }
+    ]
+}

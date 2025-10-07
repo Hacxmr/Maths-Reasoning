@@ -1,0 +1,18 @@
+{
+    "problem_id": "3997",
+    "initial_string": "a8Wa",
+    "transitions": [
+        {
+            "src": "aOa",
+            "tgt": ""
+        },
+        {
+            "src": "W",
+            "tgt": "O"
+        },
+        {
+            "src": "8",
+            "tgt": ""
+        }
+    ]
+}

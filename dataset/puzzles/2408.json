@@ -1,0 +1,34 @@
+{
+    "problem_id": "2408",
+    "initial_string": "uAc2GFg",
+    "transitions": [
+        {
+            "src": "IxFg",
+            "tgt": ""
+        },
+        {
+            "src": "Uac",
+            "tgt": "I"
+        },
+        {
+            "src": "m",
+            "tgt": ""
+        },
+        {
+            "src": "2",
+            "tgt": "x"
+        },
+        {
+            "src": "u",
+            "tgt": "U"
+        },
+        {
+            "src": "A",
+            "tgt": "a"
+        },
+        {
+            "src": "G",
+            "tgt": "m"
+        }
+    ]
+}

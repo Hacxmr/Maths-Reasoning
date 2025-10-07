@@ -1,0 +1,42 @@
+{
+    "problem_id": "1296",
+    "initial_string": "Te3",
+    "transitions": [
+        {
+            "src": "Ktc",
+            "tgt": ""
+        },
+        {
+            "src": "3",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": "3"
+        },
+        {
+            "src": "Rv",
+            "tgt": "K"
+        },
+        {
+            "src": "K",
+            "tgt": "vtc"
+        },
+        {
+            "src": "6",
+            "tgt": "kRK"
+        },
+        {
+            "src": "b",
+            "tgt": ""
+        },
+        {
+            "src": "w",
+            "tgt": "b6"
+        },
+        {
+            "src": "Te3",
+            "tgt": "w"
+        }
+    ]
+}

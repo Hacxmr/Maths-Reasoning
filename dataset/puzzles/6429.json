@@ -1,0 +1,38 @@
+{
+    "problem_id": "6429",
+    "initial_string": "z6Rv7",
+    "transitions": [
+        {
+            "src": "XI",
+            "tgt": ""
+        },
+        {
+            "src": "0C",
+            "tgt": "XI"
+        },
+        {
+            "src": "fn7",
+            "tgt": "C"
+        },
+        {
+            "src": "z6r",
+            "tgt": ""
+        },
+        {
+            "src": "g",
+            "tgt": "0"
+        },
+        {
+            "src": "h",
+            "tgt": "rg"
+        },
+        {
+            "src": "Wv",
+            "tgt": "hfn"
+        },
+        {
+            "src": "R",
+            "tgt": "W"
+        }
+    ]
+}

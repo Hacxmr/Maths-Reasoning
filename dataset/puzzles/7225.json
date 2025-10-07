@@ -1,0 +1,42 @@
+{
+    "problem_id": "7225",
+    "initial_string": "bLo0kfI",
+    "transitions": [
+        {
+            "src": "P2eM",
+            "tgt": ""
+        },
+        {
+            "src": "n",
+            "tgt": ""
+        },
+        {
+            "src": "C1I",
+            "tgt": ""
+        },
+        {
+            "src": "r",
+            "tgt": "P"
+        },
+        {
+            "src": "f",
+            "tgt": "C1"
+        },
+        {
+            "src": "b",
+            "tgt": "r"
+        },
+        {
+            "src": "k",
+            "tgt": "eM"
+        },
+        {
+            "src": "0",
+            "tgt": "n2"
+        },
+        {
+            "src": "Lo",
+            "tgt": ""
+        }
+    ]
+}

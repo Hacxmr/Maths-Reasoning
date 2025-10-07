@@ -1,0 +1,30 @@
+{
+    "problem_id": "9686",
+    "initial_string": "t0mF",
+    "transitions": [
+        {
+            "src": "mp",
+            "tgt": ""
+        },
+        {
+            "src": "uCv",
+            "tgt": ""
+        },
+        {
+            "src": "I",
+            "tgt": "Cv"
+        },
+        {
+            "src": "t0",
+            "tgt": ""
+        },
+        {
+            "src": "N",
+            "tgt": "pu"
+        },
+        {
+            "src": "F",
+            "tgt": "NI"
+        }
+    ]
+}

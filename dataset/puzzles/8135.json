@@ -1,0 +1,38 @@
+{
+    "problem_id": "8135",
+    "initial_string": "boYD",
+    "transitions": [
+        {
+            "src": "71",
+            "tgt": ""
+        },
+        {
+            "src": "4lr",
+            "tgt": "71"
+        },
+        {
+            "src": "f",
+            "tgt": "4lr"
+        },
+        {
+            "src": "7yN",
+            "tgt": "f"
+        },
+        {
+            "src": "a",
+            "tgt": "N"
+        },
+        {
+            "src": "b",
+            "tgt": "7"
+        },
+        {
+            "src": "oFl",
+            "tgt": "y"
+        },
+        {
+            "src": "YD",
+            "tgt": "Fla"
+        }
+    ]
+}

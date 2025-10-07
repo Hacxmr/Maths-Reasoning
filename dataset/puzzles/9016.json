@@ -1,0 +1,46 @@
+{
+    "problem_id": "9016",
+    "initial_string": "A9xo",
+    "transitions": [
+        {
+            "src": "6dDy",
+            "tgt": ""
+        },
+        {
+            "src": "0",
+            "tgt": "6dD"
+        },
+        {
+            "src": "I",
+            "tgt": "0y"
+        },
+        {
+            "src": "5",
+            "tgt": "I"
+        },
+        {
+            "src": "K",
+            "tgt": "5"
+        },
+        {
+            "src": "E",
+            "tgt": "K"
+        },
+        {
+            "src": "S",
+            "tgt": "E"
+        },
+        {
+            "src": "Awx",
+            "tgt": "S"
+        },
+        {
+            "src": "r",
+            "tgt": ""
+        },
+        {
+            "src": "9xo",
+            "tgt": "wxr"
+        }
+    ]
+}

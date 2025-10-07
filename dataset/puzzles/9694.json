@@ -1,0 +1,34 @@
+{
+    "problem_id": "9694",
+    "initial_string": "lAX",
+    "transitions": [
+        {
+            "src": "yptU ",
+            "tgt": ""
+        },
+        {
+            "src": "g",
+            "tgt": "yp"
+        },
+        {
+            "src": "NhS",
+            "tgt": " "
+        },
+        {
+            "src": "e",
+            "tgt": "NhS"
+        },
+        {
+            "src": "X",
+            "tgt": "tUe"
+        },
+        {
+            "src": "h",
+            "tgt": ""
+        },
+        {
+            "src": "lA",
+            "tgt": "gh"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "basic_metrics": {
+    "zero-shot": {
+      "total": 5,
+      "correct": 3,
+      "success_rate": 0.6
+    },
+    "few-shot": {
+      "total": 5,
+      "correct": 2,
+      "success_rate": 0.4
+    },
+    "cot": {
+      "total": 5,
+      "correct": 2,
+      "success_rate": 0.4
+    }
+  },
+  "length_metrics": {
+    "zero-shot": {
+      "avg_length": 2.6,
+      "avg_correct_length": 2.6666666666666665,
+      "avg_incorrect_length": 2.5,
+      "min_length": 2,
+      "max_length": 3
+    },
+    "few-shot": {
+      "avg_length": 2.8,
+      "avg_correct_length": 3.0,
+      "avg_incorrect_length": 2.6666666666666665,
+      "min_length": 2,
+      "max_length": 3
+    },
+    "cot": {
+      "avg_length": 2.0,
+      "avg_correct_length": 2.0,
+      "avg_incorrect_length": 2.0,
+      "min_length": 2,
+      "max_length": 2
+    }
+  }
+}

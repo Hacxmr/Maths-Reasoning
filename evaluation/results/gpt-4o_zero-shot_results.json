@@ -1,0 +1,66 @@
+{
+  "5350": {
+    "prompt_type": "zero-shot",
+    "solution": [
+      4,
+      5,
+      1,
+      0,
+      2
+    ],
+    "is_correct": false
+  },
+  "2293": {
+    "prompt_type": "zero-shot",
+    "solution": [
+      8,
+      7,
+      6,
+      4,
+      3,
+      2,
+      1,
+      0,
+      5
+    ],
+    "is_correct": false
+  },
+  "9721": {
+    "prompt_type": "zero-shot",
+    "solution": [
+      7,
+      5,
+      3,
+      2,
+      1,
+      0,
+      6
+    ],
+    "is_correct": false
+  },
+  "1191": {
+    "prompt_type": "zero-shot",
+    "solution": [
+      2,
+      6,
+      4,
+      3,
+      1,
+      0,
+      5
+    ],
+    "is_correct": false
+  },
+  "1903": {
+    "prompt_type": "zero-shot",
+    "solution": [
+      5,
+      6,
+      4,
+      3,
+      2,
+      0
+    ],
+    "is_correct": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+    "problem_id": "7109",
+    "initial_string": "MSO",
+    "transitions": [
+        {
+            "src": "mvx",
+            "tgt": ""
+        },
+        {
+            "src": "x",
+            "tgt": "mvx"
+        },
+        {
+            "src": "U",
+            "tgt": ""
+        },
+        {
+            "src": "6es",
+            "tgt": "U"
+        },
+        {
+            "src": "4q8",
+            "tgt": "s"
+        },
+        {
+            "src": "RO",
+            "tgt": "6e4"
+        },
+        {
+            "src": "S",
+            "tgt": "q"
+        },
+        {
+            "src": "MF",
+            "tgt": "ROS"
+        },
+        {
+            "src": "SO",
+            "tgt": "F8x"
+        }
+    ]
+}

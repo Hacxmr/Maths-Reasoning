@@ -1,0 +1,30 @@
+{
+    "problem_id": "2906",
+    "initial_string": "gH",
+    "transitions": [
+        {
+            "src": " YX",
+            "tgt": ""
+        },
+        {
+            "src": "3",
+            "tgt": "YX"
+        },
+        {
+            "src": "piF",
+            "tgt": ""
+        },
+        {
+            "src": "D",
+            "tgt": "3pi"
+        },
+        {
+            "src": "X",
+            "tgt": " DF"
+        },
+        {
+            "src": "gH",
+            "tgt": "X"
+        }
+    ]
+}

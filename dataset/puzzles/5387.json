@@ -1,0 +1,30 @@
+{
+    "problem_id": "5387",
+    "initial_string": " P8",
+    "transitions": [
+        {
+            "src": "eD",
+            "tgt": ""
+        },
+        {
+            "src": "FU",
+            "tgt": "eD"
+        },
+        {
+            "src": " Yw",
+            "tgt": "F"
+        },
+        {
+            "src": "5",
+            "tgt": ""
+        },
+        {
+            "src": "B",
+            "tgt": "w5"
+        },
+        {
+            "src": "P8",
+            "tgt": "YBU"
+        }
+    ]
+}

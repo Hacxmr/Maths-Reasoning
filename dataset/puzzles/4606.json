@@ -1,0 +1,18 @@
+{
+    "problem_id": "4606",
+    "initial_string": "rK",
+    "transitions": [
+        {
+            "src": "5UY",
+            "tgt": ""
+        },
+        {
+            "src": "K",
+            "tgt": "Y"
+        },
+        {
+            "src": "r",
+            "tgt": "5U"
+        }
+    ]
+}

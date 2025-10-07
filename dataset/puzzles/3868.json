@@ -1,0 +1,42 @@
+{
+    "problem_id": "3868",
+    "initial_string": " c2Twmi",
+    "transitions": [
+        {
+            "src": "41",
+            "tgt": ""
+        },
+        {
+            "src": "i",
+            "tgt": ""
+        },
+        {
+            "src": "Tj",
+            "tgt": ""
+        },
+        {
+            "src": "wm",
+            "tgt": "j1"
+        },
+        {
+            "src": " c9",
+            "tgt": ""
+        },
+        {
+            "src": "5",
+            "tgt": ""
+        },
+        {
+            "src": "6",
+            "tgt": ""
+        },
+        {
+            "src": "s",
+            "tgt": "96"
+        },
+        {
+            "src": "2",
+            "tgt": "5s4"
+        }
+    ]
+}

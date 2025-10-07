@@ -1,0 +1,30 @@
+{
+    "problem_id": "3865",
+    "initial_string": "u77Ug",
+    "transitions": [
+        {
+            "src": "wF",
+            "tgt": ""
+        },
+        {
+            "src": "b",
+            "tgt": "w"
+        },
+        {
+            "src": "u",
+            "tgt": "b"
+        },
+        {
+            "src": "Vg",
+            "tgt": ""
+        },
+        {
+            "src": "77",
+            "tgt": ""
+        },
+        {
+            "src": "U",
+            "tgt": "FV"
+        }
+    ]
+}

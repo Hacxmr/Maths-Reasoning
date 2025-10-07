@@ -1,0 +1,30 @@
+{
+    "problem_id": "9827",
+    "initial_string": "Kn",
+    "transitions": [
+        {
+            "src": "Sv",
+            "tgt": ""
+        },
+        {
+            "src": "7",
+            "tgt": ""
+        },
+        {
+            "src": "an",
+            "tgt": "S"
+        },
+        {
+            "src": "k",
+            "tgt": "nv"
+        },
+        {
+            "src": "Tkg",
+            "tgt": "7ak"
+        },
+        {
+            "src": "Kn",
+            "tgt": "Tkg"
+        }
+    ]
+}

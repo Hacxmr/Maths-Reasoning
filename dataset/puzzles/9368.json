@@ -1,0 +1,46 @@
+{
+    "problem_id": "9368",
+    "initial_string": "DMroDg",
+    "transitions": [
+        {
+            "src": "Ia",
+            "tgt": ""
+        },
+        {
+            "src": "FL",
+            "tgt": "Ia"
+        },
+        {
+            "src": "aC",
+            "tgt": "L"
+        },
+        {
+            "src": "w6",
+            "tgt": "FaC"
+        },
+        {
+            "src": "Gp",
+            "tgt": "w6"
+        },
+        {
+            "src": "z",
+            "tgt": "Gp"
+        },
+        {
+            "src": "0",
+            "tgt": "z"
+        },
+        {
+            "src": "DM",
+            "tgt": ""
+        },
+        {
+            "src": "ron",
+            "tgt": ""
+        },
+        {
+            "src": "Dg",
+            "tgt": "n0"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "problem_id": "3929",
+    "initial_string": "Fr0RDMCO",
+    "transitions": [
+        {
+            "src": "F0Y2",
+            "tgt": ""
+        },
+        {
+            "src": "d",
+            "tgt": ""
+        },
+        {
+            "src": "9bq",
+            "tgt": "Y2d"
+        },
+        {
+            "src": "WYF",
+            "tgt": "bq"
+        },
+        {
+            "src": "XS",
+            "tgt": "WYF"
+        },
+        {
+            "src": "DmY",
+            "tgt": "9XS"
+        },
+        {
+            "src": "r0R",
+            "tgt": "0"
+        },
+        {
+            "src": "MEm",
+            "tgt": "mY"
+        },
+        {
+            "src": "O",
+            "tgt": ""
+        },
+        {
+            "src": "C",
+            "tgt": "Em"
+        }
+    ]
+}

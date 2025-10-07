@@ -1,0 +1,38 @@
+{
+    "problem_id": "1755",
+    "initial_string": "RCK",
+    "transitions": [
+        {
+            "src": "8wl",
+            "tgt": ""
+        },
+        {
+            "src": " ",
+            "tgt": ""
+        },
+        {
+            "src": "d",
+            "tgt": "wl"
+        },
+        {
+            "src": "z",
+            "tgt": ""
+        },
+        {
+            "src": "RZ",
+            "tgt": " 8z"
+        },
+        {
+            "src": "2",
+            "tgt": ""
+        },
+        {
+            "src": "JJ",
+            "tgt": "Zd2"
+        },
+        {
+            "src": "CK",
+            "tgt": "JJ"
+        }
+    ]
+}

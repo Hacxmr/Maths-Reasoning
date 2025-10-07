@@ -1,0 +1,38 @@
+{
+    "problem_id": "8648",
+    "initial_string": "GC54Cj",
+    "transitions": [
+        {
+            "src": " Y",
+            "tgt": ""
+        },
+        {
+            "src": "C5Q",
+            "tgt": " Y"
+        },
+        {
+            "src": "pv4",
+            "tgt": "Q"
+        },
+        {
+            "src": "j",
+            "tgt": "v4"
+        },
+        {
+            "src": "G",
+            "tgt": ""
+        },
+        {
+            "src": "4C",
+            "tgt": "pG"
+        },
+        {
+            "src": "ELV",
+            "tgt": ""
+        },
+        {
+            "src": "G",
+            "tgt": "ELV"
+        }
+    ]
+}

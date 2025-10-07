@@ -1,0 +1,26 @@
+{
+    "problem_id": "5170",
+    "initial_string": " cu",
+    "transitions": [
+        {
+            "src": "8vPt",
+            "tgt": ""
+        },
+        {
+            "src": "v",
+            "tgt": "8vP"
+        },
+        {
+            "src": "c1O",
+            "tgt": "vt"
+        },
+        {
+            "src": " ",
+            "tgt": ""
+        },
+        {
+            "src": "u",
+            "tgt": "1O"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "problem_id": "4397",
+    "initial_string": "t4a",
+    "transitions": [
+        {
+            "src": "yo",
+            "tgt": ""
+        },
+        {
+            "src": "u",
+            "tgt": "yo"
+        },
+        {
+            "src": "a",
+            "tgt": "u"
+        },
+        {
+            "src": "cz4",
+            "tgt": ""
+        },
+        {
+            "src": "t",
+            "tgt": "cz"
+        }
+    ]
+}

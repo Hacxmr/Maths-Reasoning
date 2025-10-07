@@ -1,0 +1,26 @@
+{
+    "problem_id": "7946",
+    "initial_string": "kB9qD",
+    "transitions": [
+        {
+            "src": "qzHK",
+            "tgt": ""
+        },
+        {
+            "src": "0",
+            "tgt": "HK"
+        },
+        {
+            "src": "x",
+            "tgt": ""
+        },
+        {
+            "src": "D",
+            "tgt": "xz0"
+        },
+        {
+            "src": "kB9",
+            "tgt": ""
+        }
+    ]
+}

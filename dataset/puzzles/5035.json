@@ -1,0 +1,46 @@
+{
+    "problem_id": "5035",
+    "initial_string": "SOnmA7nM3",
+    "transitions": [
+        {
+            "src": "pe9r",
+            "tgt": ""
+        },
+        {
+            "src": "bDG",
+            "tgt": "9"
+        },
+        {
+            "src": "SO",
+            "tgt": "peb"
+        },
+        {
+            "src": "8",
+            "tgt": "r"
+        },
+        {
+            "src": "3",
+            "tgt": "8"
+        },
+        {
+            "src": "q",
+            "tgt": ""
+        },
+        {
+            "src": "p",
+            "tgt": ""
+        },
+        {
+            "src": "nm",
+            "tgt": "DGp"
+        },
+        {
+            "src": "A7n",
+            "tgt": ""
+        },
+        {
+            "src": "M",
+            "tgt": "q"
+        }
+    ]
+}

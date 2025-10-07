@@ -1,0 +1,38 @@
+{
+    "problem_id": "2775",
+    "initial_string": "qOPF6Q",
+    "transitions": [
+        {
+            "src": "2U",
+            "tgt": ""
+        },
+        {
+            "src": "H",
+            "tgt": "2U"
+        },
+        {
+            "src": "f",
+            "tgt": "H"
+        },
+        {
+            "src": "Fva",
+            "tgt": "f"
+        },
+        {
+            "src": "qxQ",
+            "tgt": "Fva"
+        },
+        {
+            "src": "8Ln",
+            "tgt": ""
+        },
+        {
+            "src": "6",
+            "tgt": "Lnx"
+        },
+        {
+            "src": "OPF",
+            "tgt": "8"
+        }
+    ]
+}

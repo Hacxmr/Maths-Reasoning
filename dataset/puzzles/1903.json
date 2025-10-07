@@ -1,0 +1,34 @@
+{
+    "problem_id": "1903",
+    "initial_string": "7LS7Ll",
+    "transitions": [
+        {
+            "src": "J6T7",
+            "tgt": ""
+        },
+        {
+            "src": "K",
+            "tgt": "T7"
+        },
+        {
+            "src": "r",
+            "tgt": "6"
+        },
+        {
+            "src": "OQ",
+            "tgt": "r"
+        },
+        {
+            "src": "5l",
+            "tgt": "OQK"
+        },
+        {
+            "src": "7L",
+            "tgt": "J"
+        },
+        {
+            "src": "S7L",
+            "tgt": "5"
+        }
+    ]
+}

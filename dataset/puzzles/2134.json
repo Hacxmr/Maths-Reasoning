@@ -1,0 +1,38 @@
+{
+    "problem_id": "2134",
+    "initial_string": "8P9icp83",
+    "transitions": [
+        {
+            "src": "S7583",
+            "tgt": ""
+        },
+        {
+            "src": "Iv",
+            "tgt": ""
+        },
+        {
+            "src": "p",
+            "tgt": "v75"
+        },
+        {
+            "src": " 8",
+            "tgt": "I"
+        },
+        {
+            "src": "ic",
+            "tgt": " 8"
+        },
+        {
+            "src": "8U",
+            "tgt": "S"
+        },
+        {
+            "src": "P",
+            "tgt": ""
+        },
+        {
+            "src": "9",
+            "tgt": "U"
+        }
+    ]
+}

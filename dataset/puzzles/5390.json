@@ -1,0 +1,30 @@
+{
+    "problem_id": "5390",
+    "initial_string": "1dn",
+    "transitions": [
+        {
+            "src": "mBv9l",
+            "tgt": ""
+        },
+        {
+            "src": "X",
+            "tgt": "Bv9"
+        },
+        {
+            "src": "mid",
+            "tgt": "mXl"
+        },
+        {
+            "src": "4",
+            "tgt": "i"
+        },
+        {
+            "src": "1",
+            "tgt": "m4"
+        },
+        {
+            "src": "n",
+            "tgt": ""
+        }
+    ]
+}

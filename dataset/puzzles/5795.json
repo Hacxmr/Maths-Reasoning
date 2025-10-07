@@ -1,0 +1,26 @@
+{
+    "problem_id": "5795",
+    "initial_string": "ef",
+    "transitions": [
+        {
+            "src": "cFIO",
+            "tgt": ""
+        },
+        {
+            "src": "y",
+            "tgt": "FIO"
+        },
+        {
+            "src": "70c",
+            "tgt": "cy"
+        },
+        {
+            "src": "B",
+            "tgt": "70c"
+        },
+        {
+            "src": "ef",
+            "tgt": "B"
+        }
+    ]
+}

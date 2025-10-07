@@ -1,0 +1,30 @@
+{
+    "problem_id": "3209",
+    "initial_string": "BAam7I",
+    "transitions": [
+        {
+            "src": "S ",
+            "tgt": ""
+        },
+        {
+            "src": "Y",
+            "tgt": ""
+        },
+        {
+            "src": "K7I",
+            "tgt": "Y "
+        },
+        {
+            "src": "m",
+            "tgt": "SK"
+        },
+        {
+            "src": "Aa",
+            "tgt": ""
+        },
+        {
+            "src": "B",
+            "tgt": ""
+        }
+    ]
+}

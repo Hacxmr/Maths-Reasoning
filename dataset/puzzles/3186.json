@@ -1,0 +1,22 @@
+{
+    "problem_id": "3186",
+    "initial_string": "nRD3T",
+    "transitions": [
+        {
+            "src": "RDvT",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": ""
+        },
+        {
+            "src": "n",
+            "tgt": ""
+        },
+        {
+            "src": "3",
+            "tgt": "kv"
+        }
+    ]
+}

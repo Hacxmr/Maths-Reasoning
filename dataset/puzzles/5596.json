@@ -1,0 +1,42 @@
+{
+    "problem_id": "5596",
+    "initial_string": "VLBB",
+    "transitions": [
+        {
+            "src": "9HH",
+            "tgt": ""
+        },
+        {
+            "src": "V",
+            "tgt": "9"
+        },
+        {
+            "src": "6vz",
+            "tgt": "H"
+        },
+        {
+            "src": "J7V",
+            "tgt": "z"
+        },
+        {
+            "src": "7",
+            "tgt": ""
+        },
+        {
+            "src": "t",
+            "tgt": "vJ7"
+        },
+        {
+            "src": "BB",
+            "tgt": "7VH"
+        },
+        {
+            "src": "n",
+            "tgt": "6t"
+        },
+        {
+            "src": "L",
+            "tgt": "n"
+        }
+    ]
+}

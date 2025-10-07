@@ -1,0 +1,30 @@
+{
+    "problem_id": "6610",
+    "initial_string": "ojbxBS",
+    "transitions": [
+        {
+            "src": "R9WW",
+            "tgt": ""
+        },
+        {
+            "src": "Ok",
+            "tgt": "R9W"
+        },
+        {
+            "src": "oj",
+            "tgt": "O"
+        },
+        {
+            "src": "bx",
+            "tgt": "kW"
+        },
+        {
+            "src": "B4",
+            "tgt": ""
+        },
+        {
+            "src": "S",
+            "tgt": "4"
+        }
+    ]
+}

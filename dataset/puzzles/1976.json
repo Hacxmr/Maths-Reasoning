@@ -1,0 +1,38 @@
+{
+    "problem_id": "1976",
+    "initial_string": "45yLjMHl",
+    "transitions": [
+        {
+            "src": "5RZIK",
+            "tgt": ""
+        },
+        {
+            "src": "6",
+            "tgt": ""
+        },
+        {
+            "src": "yg",
+            "tgt": ""
+        },
+        {
+            "src": "4",
+            "tgt": ""
+        },
+        {
+            "src": "j",
+            "tgt": "6ZI"
+        },
+        {
+            "src": "L",
+            "tgt": "gR"
+        },
+        {
+            "src": "M",
+            "tgt": "K"
+        },
+        {
+            "src": "Hl",
+            "tgt": ""
+        }
+    ]
+}

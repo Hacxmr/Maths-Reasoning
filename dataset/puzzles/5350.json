@@ -1,0 +1,30 @@
+{
+    "problem_id": "5350",
+    "initial_string": "q8ThDA",
+    "transitions": [
+        {
+            "src": "9lcJc",
+            "tgt": ""
+        },
+        {
+            "src": "D",
+            "tgt": "lc"
+        },
+        {
+            "src": "A",
+            "tgt": "Jc"
+        },
+        {
+            "src": "jV8",
+            "tgt": ""
+        },
+        {
+            "src": "q",
+            "tgt": "9jV"
+        },
+        {
+            "src": "Th",
+            "tgt": ""
+        }
+    ]
+}

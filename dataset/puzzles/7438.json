@@ -1,0 +1,34 @@
+{
+    "problem_id": "7438",
+    "initial_string": "GlLaa",
+    "transitions": [
+        {
+            "src": "nKbI6",
+            "tgt": ""
+        },
+        {
+            "src": "X",
+            "tgt": "nK"
+        },
+        {
+            "src": "N",
+            "tgt": "bI6"
+        },
+        {
+            "src": "X",
+            "tgt": ""
+        },
+        {
+            "src": "GlL",
+            "tgt": "X"
+        },
+        {
+            "src": "b",
+            "tgt": "X"
+        },
+        {
+            "src": "aa",
+            "tgt": "bN"
+        }
+    ]
+}

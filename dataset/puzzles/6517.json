@@ -1,0 +1,46 @@
+{
+    "problem_id": "6517",
+    "initial_string": "mlVgAy",
+    "transitions": [
+        {
+            "src": "OtJN",
+            "tgt": ""
+        },
+        {
+            "src": "q",
+            "tgt": ""
+        },
+        {
+            "src": "YC",
+            "tgt": ""
+        },
+        {
+            "src": "PCy",
+            "tgt": "NYC"
+        },
+        {
+            "src": "Vg",
+            "tgt": ""
+        },
+        {
+            "src": "O",
+            "tgt": "Ot"
+        },
+        {
+            "src": "A",
+            "tgt": ""
+        },
+        {
+            "src": "F",
+            "tgt": "PC"
+        },
+        {
+            "src": "g",
+            "tgt": "qJF"
+        },
+        {
+            "src": "ml",
+            "tgt": "Og"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "problem_id": "2538",
+    "initial_string": "IhwPo",
+    "transitions": [
+        {
+            "src": "urBw",
+            "tgt": ""
+        },
+        {
+            "src": "2L",
+            "tgt": "rB"
+        },
+        {
+            "src": "WUo",
+            "tgt": "Lw"
+        },
+        {
+            "src": "j",
+            "tgt": "2"
+        },
+        {
+            "src": "wP",
+            "tgt": ""
+        },
+        {
+            "src": "I",
+            "tgt": "uj"
+        },
+        {
+            "src": "h",
+            "tgt": "WU"
+        }
+    ]
+}

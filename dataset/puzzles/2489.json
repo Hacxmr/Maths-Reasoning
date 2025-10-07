@@ -1,0 +1,42 @@
+{
+    "problem_id": "2489",
+    "initial_string": " uoas9",
+    "transitions": [
+        {
+            "src": "h0s",
+            "tgt": ""
+        },
+        {
+            "src": "fIa",
+            "tgt": "0"
+        },
+        {
+            "src": "K",
+            "tgt": "fIa"
+        },
+        {
+            "src": "O30",
+            "tgt": "hKs"
+        },
+        {
+            "src": "0N9",
+            "tgt": "O30"
+        },
+        {
+            "src": " 0g",
+            "tgt": "0"
+        },
+        {
+            "src": "9",
+            "tgt": "0g"
+        },
+        {
+            "src": "Kas",
+            "tgt": "N"
+        },
+        {
+            "src": "uo",
+            "tgt": "9K"
+        }
+    ]
+}

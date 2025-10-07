@@ -1,0 +1,22 @@
+{
+    "problem_id": "8619",
+    "initial_string": "Xi8",
+    "transitions": [
+        {
+            "src": " T7",
+            "tgt": ""
+        },
+        {
+            "src": "B",
+            "tgt": " T7"
+        },
+        {
+            "src": "s",
+            "tgt": "B"
+        },
+        {
+            "src": "Xi8",
+            "tgt": "s"
+        }
+    ]
+}

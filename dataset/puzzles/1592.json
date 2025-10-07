@@ -1,0 +1,42 @@
+{
+    "problem_id": "1592",
+    "initial_string": "ahGBmeniJS3",
+    "transitions": [
+        {
+            "src": "S3",
+            "tgt": ""
+        },
+        {
+            "src": "373",
+            "tgt": ""
+        },
+        {
+            "src": "d",
+            "tgt": ""
+        },
+        {
+            "src": "Bm",
+            "tgt": "d"
+        },
+        {
+            "src": "aG",
+            "tgt": "37"
+        },
+        {
+            "src": "ei",
+            "tgt": ""
+        },
+        {
+            "src": "J",
+            "tgt": "3"
+        },
+        {
+            "src": "h",
+            "tgt": ""
+        },
+        {
+            "src": "n",
+            "tgt": ""
+        }
+    ]
+}

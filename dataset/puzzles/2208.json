@@ -1,0 +1,26 @@
+{
+    "problem_id": "2208",
+    "initial_string": "1Qz",
+    "transitions": [
+        {
+            "src": "N0A",
+            "tgt": ""
+        },
+        {
+            "src": "1F",
+            "tgt": "N0A"
+        },
+        {
+            "src": "1",
+            "tgt": "1F"
+        },
+        {
+            "src": "QGw",
+            "tgt": ""
+        },
+        {
+            "src": "z",
+            "tgt": "Gw"
+        }
+    ]
+}

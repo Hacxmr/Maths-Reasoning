@@ -1,0 +1,30 @@
+{
+    "problem_id": "7031",
+    "initial_string": "zEL Pb2",
+    "transitions": [
+        {
+            "src": "ELEsq",
+            "tgt": ""
+        },
+        {
+            "src": "O",
+            "tgt": "q"
+        },
+        {
+            "src": " ",
+            "tgt": "EsO"
+        },
+        {
+            "src": "Tb2",
+            "tgt": ""
+        },
+        {
+            "src": "P",
+            "tgt": "T"
+        },
+        {
+            "src": "z",
+            "tgt": ""
+        }
+    ]
+}

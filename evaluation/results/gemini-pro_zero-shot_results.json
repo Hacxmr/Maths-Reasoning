@@ -1,0 +1,52 @@
+{
+  "9016": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "6756": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "3996": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "1826": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "7067": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "3566": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "7946": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "9809": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "2134": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  },
+  "9919": {
+    "prompt_type": "zero-shot",
+    "solution": null,
+    "is_correct": false
+  }
+}

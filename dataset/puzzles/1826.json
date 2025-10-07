@@ -1,0 +1,30 @@
+{
+    "problem_id": "1826",
+    "initial_string": "NFKcNo",
+    "transitions": [
+        {
+            "src": "G3cNo",
+            "tgt": ""
+        },
+        {
+            "src": "4",
+            "tgt": "3"
+        },
+        {
+            "src": "K",
+            "tgt": "G4"
+        },
+        {
+            "src": "D",
+            "tgt": ""
+        },
+        {
+            "src": "N",
+            "tgt": ""
+        },
+        {
+            "src": "F",
+            "tgt": "D"
+        }
+    ]
+}

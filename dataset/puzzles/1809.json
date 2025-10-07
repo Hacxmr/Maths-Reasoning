@@ -1,0 +1,42 @@
+{
+    "problem_id": "1809",
+    "initial_string": "MobsYD",
+    "transitions": [
+        {
+            "src": "DN",
+            "tgt": ""
+        },
+        {
+            "src": "k",
+            "tgt": "N"
+        },
+        {
+            "src": "C",
+            "tgt": "D"
+        },
+        {
+            "src": "Zg",
+            "tgt": "Ck"
+        },
+        {
+            "src": "I",
+            "tgt": ""
+        },
+        {
+            "src": "YH",
+            "tgt": "IZ"
+        },
+        {
+            "src": "D",
+            "tgt": "Hg"
+        },
+        {
+            "src": "H7s",
+            "tgt": ""
+        },
+        {
+            "src": "Mob",
+            "tgt": "H7"
+        }
+    ]
+}

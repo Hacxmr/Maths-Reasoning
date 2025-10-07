@@ -1,0 +1,38 @@
+{
+    "problem_id": "4585",
+    "initial_string": "Mm",
+    "transitions": [
+        {
+            "src": "MTip3",
+            "tgt": ""
+        },
+        {
+            "src": "4eh",
+            "tgt": "Tip"
+        },
+        {
+            "src": "4",
+            "tgt": "M4e"
+        },
+        {
+            "src": "O",
+            "tgt": "4"
+        },
+        {
+            "src": "e",
+            "tgt": ""
+        },
+        {
+            "src": "Pm",
+            "tgt": "Oh"
+        },
+        {
+            "src": "q",
+            "tgt": "m3e"
+        },
+        {
+            "src": "Mm",
+            "tgt": "Pq"
+        }
+    ]
+}

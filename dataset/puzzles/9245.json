@@ -1,0 +1,34 @@
+{
+    "problem_id": "9245",
+    "initial_string": "tSfw",
+    "transitions": [
+        {
+            "src": "v0FP",
+            "tgt": ""
+        },
+        {
+            "src": "tI2",
+            "tgt": "v0F"
+        },
+        {
+            "src": "XLI",
+            "tgt": "tI"
+        },
+        {
+            "src": "7",
+            "tgt": "I2"
+        },
+        {
+            "src": "t ",
+            "tgt": "XL7"
+        },
+        {
+            "src": "w",
+            "tgt": "P"
+        },
+        {
+            "src": "Sf",
+            "tgt": " "
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "problem_id": "2635",
+    "initial_string": "sx",
+    "transitions": [
+        {
+            "src": "TFh",
+            "tgt": ""
+        },
+        {
+            "src": "s",
+            "tgt": "TFh"
+        },
+        {
+            "src": "x",
+            "tgt": ""
+        }
+    ]
+}

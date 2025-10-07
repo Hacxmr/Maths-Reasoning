@@ -1,0 +1,26 @@
+{
+    "problem_id": "8972",
+    "initial_string": "9X",
+    "transitions": [
+        {
+            "src": "9CFS",
+            "tgt": ""
+        },
+        {
+            "src": "n",
+            "tgt": ""
+        },
+        {
+            "src": "J",
+            "tgt": "CF"
+        },
+        {
+            "src": "b",
+            "tgt": "JSn"
+        },
+        {
+            "src": "X",
+            "tgt": "b"
+        }
+    ]
+}

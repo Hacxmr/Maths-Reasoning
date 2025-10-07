@@ -1,0 +1,30 @@
+{
+    "problem_id": "9898",
+    "initial_string": "Vyy2",
+    "transitions": [
+        {
+            "src": "A0tQf",
+            "tgt": ""
+        },
+        {
+            "src": "E",
+            "tgt": "A0t"
+        },
+        {
+            "src": "ms2",
+            "tgt": "EQ"
+        },
+        {
+            "src": "Z",
+            "tgt": "s2"
+        },
+        {
+            "src": "K2",
+            "tgt": "mZf"
+        },
+        {
+            "src": "Vyy",
+            "tgt": "K"
+        }
+    ]
+}

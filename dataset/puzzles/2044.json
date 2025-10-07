@@ -1,0 +1,26 @@
+{
+    "problem_id": "2044",
+    "initial_string": "hxr",
+    "transitions": [
+        {
+            "src": " AbxW",
+            "tgt": ""
+        },
+        {
+            "src": "c",
+            "tgt": ""
+        },
+        {
+            "src": "r",
+            "tgt": " A"
+        },
+        {
+            "src": "r",
+            "tgt": "W"
+        },
+        {
+            "src": "h",
+            "tgt": "crb"
+        }
+    ]
+}

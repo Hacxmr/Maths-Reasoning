@@ -1,0 +1,30 @@
+{
+    "problem_id": "5196",
+    "initial_string": "tfxp",
+    "transitions": [
+        {
+            "src": "Oz",
+            "tgt": ""
+        },
+        {
+            "src": "tJB",
+            "tgt": ""
+        },
+        {
+            "src": "X",
+            "tgt": "z"
+        },
+        {
+            "src": "C",
+            "tgt": "BO"
+        },
+        {
+            "src": "G",
+            "tgt": "JCX"
+        },
+        {
+            "src": "fxp",
+            "tgt": "G"
+        }
+    ]
+}

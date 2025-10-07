@@ -1,0 +1,38 @@
+{
+    "problem_id": "3847",
+    "initial_string": "7R0MA351Sy",
+    "transitions": [
+        {
+            "src": "pM",
+            "tgt": ""
+        },
+        {
+            "src": "009",
+            "tgt": "pM"
+        },
+        {
+            "src": "R0",
+            "tgt": "00"
+        },
+        {
+            "src": "k1S",
+            "tgt": "9"
+        },
+        {
+            "src": "A35",
+            "tgt": "k"
+        },
+        {
+            "src": "7",
+            "tgt": ""
+        },
+        {
+            "src": "y",
+            "tgt": ""
+        },
+        {
+            "src": "M",
+            "tgt": ""
+        }
+    ]
+}

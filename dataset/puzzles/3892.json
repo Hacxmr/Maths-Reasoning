@@ -1,0 +1,42 @@
+{
+    "problem_id": "3892",
+    "initial_string": "uls",
+    "transitions": [
+        {
+            "src": "4mP",
+            "tgt": ""
+        },
+        {
+            "src": "I",
+            "tgt": "P"
+        },
+        {
+            "src": "4W",
+            "tgt": "I"
+        },
+        {
+            "src": "a",
+            "tgt": ""
+        },
+        {
+            "src": "J",
+            "tgt": "a4"
+        },
+        {
+            "src": "P",
+            "tgt": "JW"
+        },
+        {
+            "src": "u",
+            "tgt": "4"
+        },
+        {
+            "src": "s",
+            "tgt": ""
+        },
+        {
+            "src": "l",
+            "tgt": "mP"
+        }
+    ]
+}

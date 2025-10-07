@@ -1,0 +1,46 @@
+{
+    "problem_id": "8841",
+    "initial_string": "H5lbgiy",
+    "transitions": [
+        {
+            "src": "4mMRe",
+            "tgt": ""
+        },
+        {
+            "src": "2v",
+            "tgt": "Re"
+        },
+        {
+            "src": "9ly",
+            "tgt": "2v"
+        },
+        {
+            "src": "M5",
+            "tgt": "M9"
+        },
+        {
+            "src": "RX",
+            "tgt": "4"
+        },
+        {
+            "src": "c",
+            "tgt": "M"
+        },
+        {
+            "src": "bgi",
+            "tgt": ""
+        },
+        {
+            "src": "0",
+            "tgt": ""
+        },
+        {
+            "src": "I",
+            "tgt": "RXm"
+        },
+        {
+            "src": "H",
+            "tgt": "0Ic"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+  "2826": {
+    "prompt_type": "few-shot",
+    "solution": [
+      7,
+      5,
+      4,
+      3,
+      2,
+      0
+    ],
+    "is_correct": false
+  },
+  "2293": {
+    "prompt_type": "few-shot",
+    "solution": [
+      8,
+      7,
+      6,
+      4,
+      3,
+      2,
+      1,
+      0,
+      5
+    ],
+    "is_correct": false
+  },
+  "3996": {
+    "prompt_type": "few-shot",
+    "solution": [
+      4,
+      4,
+      3,
+      2,
+      1,
+      0,
+      5
+    ],
+    "is_correct": false
+  },
+  "1865": {
+    "prompt_type": "few-shot",
+    "solution": [
+      5,
+      4,
+      3,
+      1,
+      0
+    ],
+    "is_correct": false
+  },
+  "3882": {
+    "prompt_type": "few-shot",
+    "solution": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "is_correct": true
+  }
+}

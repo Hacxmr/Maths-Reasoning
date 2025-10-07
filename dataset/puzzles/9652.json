@@ -1,0 +1,38 @@
+{
+    "problem_id": "9652",
+    "initial_string": "Vl83KD",
+    "transitions": [
+        {
+            "src": "JCKD",
+            "tgt": ""
+        },
+        {
+            "src": "K",
+            "tgt": "C"
+        },
+        {
+            "src": "8p",
+            "tgt": ""
+        },
+        {
+            "src": "d",
+            "tgt": ""
+        },
+        {
+            "src": "8",
+            "tgt": "Jd"
+        },
+        {
+            "src": "3",
+            "tgt": "p"
+        },
+        {
+            "src": "V",
+            "tgt": "8K"
+        },
+        {
+            "src": "l",
+            "tgt": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "problem_id": "5089",
+    "initial_string": "8 IyOd",
+    "transitions": [
+        {
+            "src": "zQ7",
+            "tgt": ""
+        },
+        {
+            "src": "D",
+            "tgt": "zQ7"
+        },
+        {
+            "src": "mrF",
+            "tgt": "D"
+        },
+        {
+            "src": "985",
+            "tgt": "mrF"
+        },
+        {
+            "src": "XDd",
+            "tgt": "985"
+        },
+        {
+            "src": "8g2",
+            "tgt": "X"
+        },
+        {
+            "src": "nO",
+            "tgt": "D"
+        },
+        {
+            "src": "pX",
+            "tgt": "2n"
+        },
+        {
+            "src": " Iy",
+            "tgt": "gpX"
+        }
+    ]
+}

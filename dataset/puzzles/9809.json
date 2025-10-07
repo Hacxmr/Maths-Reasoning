@@ -1,0 +1,30 @@
+{
+    "problem_id": "9809",
+    "initial_string": "4E",
+    "transitions": [
+        {
+            "src": "Wo4",
+            "tgt": ""
+        },
+        {
+            "src": "VR",
+            "tgt": ""
+        },
+        {
+            "src": "z",
+            "tgt": "WoV"
+        },
+        {
+            "src": "L",
+            "tgt": "zR4"
+        },
+        {
+            "src": "4xK",
+            "tgt": "L"
+        },
+        {
+            "src": "E",
+            "tgt": "xK"
+        }
+    ]
+}

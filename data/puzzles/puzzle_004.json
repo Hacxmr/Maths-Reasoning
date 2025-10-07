@@ -1,0 +1,26 @@
+{
+  "problem_id": "puzzle_004",
+  "initial_string": "ABCDABC",
+  "transitions": [
+    {
+      "src": "AB",
+      "tgt": "X"
+    },
+    {
+      "src": "XC",
+      "tgt": "Y"
+    },
+    {
+      "src": "YD",
+      "tgt": "Z"
+    },
+    {
+      "src": "ZAB",
+      "tgt": "W"
+    },
+    {
+      "src": "WC",
+      "tgt": ""
+    }
+  ]
+}

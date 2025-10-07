@@ -1,0 +1,38 @@
+{
+    "problem_id": "2826",
+    "initial_string": "UAA6",
+    "transitions": [
+        {
+            "src": "vQSH",
+            "tgt": ""
+        },
+        {
+            "src": "d",
+            "tgt": "vQS"
+        },
+        {
+            "src": "M",
+            "tgt": ""
+        },
+        {
+            "src": "qI",
+            "tgt": ""
+        },
+        {
+            "src": "I",
+            "tgt": "dqI"
+        },
+        {
+            "src": "G6",
+            "tgt": "IMH"
+        },
+        {
+            "src": "o",
+            "tgt": ""
+        },
+        {
+            "src": "UAA",
+            "tgt": "oG"
+        }
+    ]
+}

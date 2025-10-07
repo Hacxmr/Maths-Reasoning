@@ -1,0 +1,26 @@
+{
+    "problem_id": "3104",
+    "initial_string": "AQf",
+    "transitions": [
+        {
+            "src": "IGNr",
+            "tgt": ""
+        },
+        {
+            "src": "U",
+            "tgt": ""
+        },
+        {
+            "src": "f",
+            "tgt": "GNr"
+        },
+        {
+            "src": "w8",
+            "tgt": "UIf"
+        },
+        {
+            "src": "AQf",
+            "tgt": "w8"
+        }
+    ]
+}

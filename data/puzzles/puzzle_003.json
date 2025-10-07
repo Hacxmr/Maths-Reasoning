@@ -1,0 +1,18 @@
+{
+  "problem_id": "puzzle_003",
+  "initial_string": "ABABC",
+  "transitions": [
+    {
+      "src": "AB",
+      "tgt": "X"
+    },
+    {
+      "src": "XAB",
+      "tgt": "Y"
+    },
+    {
+      "src": "YC",
+      "tgt": ""
+    }
+  ]
+}

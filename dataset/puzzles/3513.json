@@ -1,0 +1,30 @@
+{
+    "problem_id": "3513",
+    "initial_string": "khRD",
+    "transitions": [
+        {
+            "src": "oz",
+            "tgt": ""
+        },
+        {
+            "src": "2S",
+            "tgt": "z"
+        },
+        {
+            "src": "w",
+            "tgt": "o2S"
+        },
+        {
+            "src": "W4",
+            "tgt": "w"
+        },
+        {
+            "src": "YRD",
+            "tgt": "4"
+        },
+        {
+            "src": "kh",
+            "tgt": "WY"
+        }
+    ]
+}

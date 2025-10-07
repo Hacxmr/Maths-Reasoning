@@ -1,0 +1,30 @@
+{
+    "problem_id": "1865",
+    "initial_string": "N6mubIK",
+    "transitions": [
+        {
+            "src": "mZ",
+            "tgt": ""
+        },
+        {
+            "src": "PIK",
+            "tgt": "Z"
+        },
+        {
+            "src": "Y",
+            "tgt": ""
+        },
+        {
+            "src": "ub",
+            "tgt": "YP"
+        },
+        {
+            "src": "6",
+            "tgt": ""
+        },
+        {
+            "src": "N",
+            "tgt": ""
+        }
+    ]
+}

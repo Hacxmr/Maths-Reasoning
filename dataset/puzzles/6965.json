@@ -1,0 +1,30 @@
+{
+    "problem_id": "6965",
+    "initial_string": "1OQnw",
+    "transitions": [
+        {
+            "src": "FM",
+            "tgt": ""
+        },
+        {
+            "src": "1",
+            "tgt": "FM"
+        },
+        {
+            "src": "tMw",
+            "tgt": "1"
+        },
+        {
+            "src": "xr",
+            "tgt": "t"
+        },
+        {
+            "src": "1",
+            "tgt": "xrM"
+        },
+        {
+            "src": "OQn",
+            "tgt": ""
+        }
+    ]
+}

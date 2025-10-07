@@ -1,0 +1,23 @@
+{
+  "5795": {
+    "prompt_type": "zero-shot",
+    "solution": [
+      4,
+      3,
+      2,
+      1,
+      0
+    ],
+    "is_correct": true
+  },
+  "8235": {
+    "prompt_type": "zero-shot",
+    "solution": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "is_correct": false
+  }
+}
